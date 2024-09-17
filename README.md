@@ -33,6 +33,8 @@ Welcome to the Data Science Job Market Insights repository! 🎉 This project di
 
 - Python 
 - Tableau (for visualization)
+- Google Colab / Jupyter Notebook
+- Visual Studio Code or any python compiler of choice 
 - Required Python libraries: `selenium`, `pandas`, `numpy`
 
 ### Installation
