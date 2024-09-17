@@ -12,22 +12,10 @@ job_data = []  # List to store job titles
 jobs = []
 job_header_dict = {}
 
-def export_to_csv(data, filename):
-    # Create a DataFrame from the list of dictionaries
-    df = pd.DataFrame(data)
-    
-    # Convert list fields to a string
-    df['skills'] = df['skills'].apply(lambda x: ', '.join(x))
-    df['education_level'] = df['education_level'].apply(lambda x: ', '.join(x))
-    
-    # Export to CSV
-    df.to_csv(filename, index=False)
-
-
 
 def main():
     base_url = "https://www.indeed.com/jobs?q=data+science&l=Remote&start="
-    for i in range (230,420,10):
+    for i in range (10,420,10):
         try:
             driver = webdriver.Firefox()
             url = base_url+str(i)
