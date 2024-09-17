@@ -1,0 +1,510 @@
+id,job_title,rating,company_name,work_site,work_site_catagory,contract_type,salary,city,state,min_salary,max_salary,salary_type,average_salary,yearly_salary,Category,Range
+1,"Individual/Independent Consultant - Data Analytics, Food Security and Agroclimatology Specialist",,American Institutes for Research,Remote,2.0,Full-Time,N/A,,,,,,,,,
+2,Data Scientist,4.0,Albert Einstein College of Medicine,"On-Site,Remote",1.0,Full-Time,"$99,000 - $110,000 a year - Full-time",Bronx,NY,99000.0,110000.0,per year,104500.0,104500.0,3.0,$100001 - $150000
+3,Machine Learning Engineer,3.7,CIGNEX Datamatics,Remote,2.0,Full-Time,N/A,,,,,,,,,
+4,Qualitative Data Researcher,4.7,Redcloud Consulting,"On-Site,Remote",1.0,Full-Time,$45 - $53 an hour,Bellevue,WA,45.0,53.0,per hour,49.0,101920.0,3.0,$100001 - $150000
+5,Statistician,4.3,US National Institutes of Health,Remote,2.0,Full-Time,"$122,198 - $191,900 a year - Full-time",,,122198.0,191900.0,per year,157049.0,157049.0,4.0,$150001 - $200000
+6,Research Associate - Segmenting and 3D Visualization - Remote or Hybrid,3.7,Ochsner Health System,"On-Site,Remote",1.0,Full-Time,N/A,New Orleans,LA,,,,,,,
+7,Statistician I,3.4,Jackson Lewis,"On-Site,Remote",1.0,Full-Time,$35 - $45 an hour - Full-time,Denver,CO,35.0,45.0,per hour,40.0,83200.0,2.0,$50001 - $100000
+8,Vice President - Reporting and Data Analytics,2.9,Modvicare,Remote,2.0,Full-Time,"$202,300 - $283,200 a year - Full-time",,,202300.0,283200.0,per year,242750.0,242750.0,5.0,$200001 - $250000
+9,Data Scientist,,Norstella,Remote,2.0,Full-Time,"$100,000 - $120,000 a year - Full-time",,,100000.0,120000.0,per year,110000.0,110000.0,3.0,$100001 - $150000
+10,Assessment Writer and Reviewer,,Correlation One,Remote,2.0,Full-Time,$50 - $100 a day,,,50.0,100.0,per day,75.0,19500.0,1.0,$10000 - $50000
+11,Data Science Manager,3.9,Atlassian,"On-Site,Remote",1.0,Full-Time,"$167,100 - $268,400 a year - Full-time",San Francisco,CA,167100.0,268400.0,per year,217750.0,217750.0,5.0,$200001 - $250000
+12,Data Scientist,3.8,"Geosyntec Consultants, Inc.","On-Site,Remote",1.0,Full-Time,N/A,Kennesaw,GA,,,,,,,
+13,"Technical Sourcer, Data Science & Engineering (6 Month Contract)",,AiDash,"On-Site,Remote",1.0,Contract,$55 - $70 an hour - Contract,Palo Alto,CA,55.0,70.0,per hour,62.5,130000.0,3.0,$100001 - $150000
+14,Growth Operations Associate,3.1,Vida Health,Remote,2.0,Full-Time,N/A,,,,,,,,,
+16,Product Head of Support Product,3.8,Afterpay,"On-Site,Remote",1.0,Full-Time,"$290,000 - $435,000 a year - Full-time",San Francisco,CA,290000.0,435000.0,per year,362500.0,362500.0,7.0,$300001 - $400000
+17,VP of Data Science,3.8,VEVO,Remote,2.0,Full-Time,"$250,000 - $285,000 a year - Full-time",,,250000.0,285000.0,per year,267500.0,267500.0,6.0,$250001 - $300000
+18,Data Scientist – Remote,,Sanmina Corporation,"On-Site,Remote",1.0,Full-Time,"$100,000 - $150,000 a year",San Jose,CA,100000.0,150000.0,per year,125000.0,125000.0,3.0,$100001 - $150000
+19,Manufacturing and Clinical Supply Senior Data Scientist,4.0,Amgen,"On-Site,Remote",1.0,Full-Time,"$143,314 - $169,083 a year",Los Angeles,CA,143314.0,169083.0,per year,156198.5,156198.5,4.0,$150001 - $200000
+20,Data Analytics 2 (Climate and Energy),3.6,Abt Global,"On-Site,Remote",1.0,Full-Time,"$72,000 - $110,000 a year - Full-time",Rockville,MD,72000.0,110000.0,per year,91000.0,91000.0,2.0,$50001 - $100000
+21,Senior Manager - Organizational Data Analytics and Insights,,Modvicare,Remote,2.0,Full-Time,"$111,000 - $149,900 a year",,,111000.0,149900.0,per year,130450.0,130450.0,3.0,$100001 - $150000
+22,Clinical Data Manager,3.9,American Heart Association,"On-Site,Remote",1.0,Full-Time,"$85,000 - $93,000 a year - Full-time",Cleveland,OH,85000.0,93000.0,per year,89000.0,89000.0,2.0,$50001 - $100000
+23,VP of Data Integration and Analytics,,Howden Group Holdings,Remote,2.0,Full-Time,"$200,000 a year - Full-time",,,200000.0,,per year,200000.0,200000.0,4.0,$150001 - $200000
+24,Senior Data Analyst - Quality Assurance - Remote,3.5,Olympus Corporation of the Americas,"On-Site,Remote",1.0,Full-Time,"$75,624 - $102,092 a year - Full-time",Center Valley,PA,75624.0,102092.0,per year,88858.0,88858.0,2.0,$50001 - $100000
+25,Medical Coding & Surgery Authorizations Specialist,3.7,University of Colorado Medicine,"On-Site,Remote",1.0,Full-Time,$27.73 - $31.21 an hour - Full-time,Aurora,CO,27.73,31.21,per hour,29.47,61297.6,2.0,$50001 - $100000
+26,Applied AI Scientist,,ClimateAI,Remote,2.0,Full-Time,"$160,000 - $220,000 a year",,,160000.0,220000.0,per year,190000.0,190000.0,4.0,$150001 - $200000
+27,Sr. Data Scientist,3.8,Pinterest,Remote,2.0,Full-Time,"$123,470 - $254,024 a year",,,123470.0,254024.0,per year,188747.0,188747.0,4.0,$150001 - $200000
+28,Staff Data Scientist,4.2,BitSight,Remote,2.0,Full-Time,"$150,000 - $170,000 a year - Full-time",,,150000.0,170000.0,per year,160000.0,160000.0,4.0,$150001 - $200000
+29,Data Scientist,3.4,ICF,"On-Site,Remote",1.0,Full-Time,"$79,154 - $134,561 a year - Full-time",Raleigh,NC,79154.0,134561.0,per year,106857.5,106857.5,3.0,$100001 - $150000
+31,Healthcare MLOps Databricks AWS - Machine Learning Operations Engineer (Remote),,Mercy,"On-Site,Remote",1.0,Full-Time,N/A,Chesterfield,MO,,,,,,,
+32,Data Scientist - CCSG & Extramural Research Development,4.1,MD Anderson Cancer Center,"On-Site,Remote",1.0,Full-Time,"$103,000 - $155,000 a year - Full-time",Houston,TX,103000.0,155000.0,per year,129000.0,129000.0,3.0,$100001 - $150000
+33,Junior Software Implementation Consultant,3.8,WSP,"On-Site,Remote",1.0,Full-Time,"$65,400 - $107,910 a year",Denver,CO,65400.0,107910.0,per year,86655.0,86655.0,2.0,$50001 - $100000
+34,Principal Data Science Analyst - Remote,,Mayo Clinic,"On-Site,Remote",1.0,Full-Time,"$141,689 - $205,420 a year",Rochester,MN,141689.0,205420.0,per year,173554.5,173554.5,4.0,$150001 - $200000
+35,Machine Learning Engineer,1.8,Havenly,"On-Site,Remote",1.0,Full-Time,$160 - $190 a day - Full-time,Denver,CO,160.0,190.0,per day,175.0,45500.0,1.0,$10000 - $50000
+36,Senior Analyst - Health Informatics,,Norstella,Remote,2.0,Full-Time,"$90,000 - $115,000 a year - Full-time",,,90000.0,115000.0,per year,102500.0,102500.0,3.0,$100001 - $150000
+37,"Staff Machine Learning Engineer, Applied Science",3.8,Pinterest,"On-Site,Remote",1.0,Full-Time,"$200,117 - $411,650 a year",San Francisco,CA,200117.0,411650.0,per year,305883.5,305883.5,7.0,$300001 - $400000
+38,Visualization Engineer (L5) - Content & Studio,3.9,Netflix,Remote,2.0,Full-Time,"$170,000 - $720,000 a year - Full-time",,,170000.0,720000.0,per year,445000.0,445000.0,8.0,$400001 - $500000
+39,Data Scientist/Prompt Engineer (Remote),3.4,ICF,"On-Site,Remote",1.0,Full-Time,"$92,986 - $158,076 a year - Full-time",Reston,VA,92986.0,158076.0,per year,125531.0,125531.0,3.0,$100001 - $150000
+40,"Data Science Manager, Marketing Applied Sciences Team",4.0,General Motors,Remote,2.0,Full-Time,"$137,000 - $214,300 a year - Full-time",,,137000.0,214300.0,per year,175650.0,175650.0,4.0,$150001 - $200000
+41,"Staff Data Engineer, Activation Science",4.0,General Motors,Remote,2.0,Full-Time,N/A,,,,,,,,,
+43,Data Science Analyst III / Office of Enterprise Data (OED),4.1,Children's Hospital Los Angeles,"On-Site,Remote",1.0,Full-Time,N/A,Los Angeles,CA,,,,,,,
+44,"Director I, Data Science",3.5,Liberty Mutual,Remote,2.0,Full-Time,"$141,200 - $246,900 a year - Full-time",,,141200.0,246900.0,per year,194050.0,194050.0,4.0,$150001 - $200000
+46,Data Scientist,4.3,Colgate-Palmolive,"On-Site,Remote",1.0,Full-Time,"$91,000 - $128,000 a year - Full-time",New York,NY,91000.0,128000.0,per year,109500.0,109500.0,3.0,$100001 - $150000
+47,Tableau Developer,4.1,Intone Networks,Remote,2.0,Contract,N/A,,,,,,,,,
+48,"Manager, Analytics & Insights",2.4,Phreesia,Remote,2.0,Full-Time,"$105,000 - $110,000 a year - Full-time",,,105000.0,110000.0,per year,107500.0,107500.0,3.0,$100001 - $150000
+49,Artificial Intelligence Engineer (Remote),4.1,Ford Motor Company,"On-Site,Remote",1.0,Full-Time,N/A,Dearborn,MI,,,,,,,
+50,Building Electrification Associate (Remote - US),,Energy Solutions - USA,Remote,2.0,Full-Time,"$58,000 - $66,000 a year - Full-time",,,58000.0,66000.0,per year,62000.0,62000.0,2.0,$50001 - $100000
+51,Quantitative Research Analyst,3.7,National Research Center for College & University Admissions,Remote,2.0,Full-Time,N/A,,,,,,,,,
+52,"Tech Lead, ML/AI",,Lovelytics,Remote,2.0,Full-Time,"$125,000 - $165,000 a year - Full-time",,,125000.0,165000.0,per year,145000.0,145000.0,3.0,$100001 - $150000
+53,Clinical Data Manager,2.4,Vibrent Health,Remote,2.0,Full-Time,N/A,,,,,,,,,
+54,Generative AI Developer,5.0,"Clutch Group, Inc.","On-Site,Remote",1.0,Contract,N/A,Philadelphia,PA,,,,,,,
+55,"Product Support Analyst, Senior",3.7,Infor,Remote,2.0,Full-Time,N/A,,,,,,,,,
+56,"Staff Data Scientist, Metrics Quality",3.8,Pinterest,Remote,2.0,Full-Time,"$148,049 - $304,496 a year",,,148049.0,304496.0,per year,226272.5,226272.5,5.0,$200001 - $250000
+57,"Machine Learning Engineer (Modeling), Risk",3.8,Afterpay,"On-Site,Remote",1.0,Full-Time,"$139,000 - $233,200 a year - Full-time",San Francisco,CA,139000.0,233200.0,per year,186100.0,186100.0,4.0,$150001 - $200000
+58,"Director, R&D Data Governance",3.2,BeiGene,Remote,2.0,Full-Time,"$170,800 - $230,800 a year - Full-time",,,170800.0,230800.0,per year,200800.0,200800.0,5.0,$200001 - $250000
+59,"Sr HCE Consultant, Data Science - Remote",,Optum,"On-Site,Remote",1.0,Full-Time,"$88,000 - $173,200 a year",Eden Prairie,MN,88000.0,173200.0,per year,130600.0,130600.0,3.0,$100001 - $150000
+61,Staff Data Scientist,,Standard AI,Remote,2.0,Full-Time,"$200,000 - $235,000 a year - Full-time",,,200000.0,235000.0,per year,217500.0,217500.0,5.0,$200001 - $250000
+62,Cloud Data Analytics Specialist,3.9,Logistics Management Institute,Remote,2.0,Full-Time,N/A,,,,,,,,,
+63,"MANAGER, DIGITAL ANALYTICS (REMOTE OPPORTUNITY)",,"Hyatt Corporate Office, Chicago","On-Site,Remote",1.0,Full-Time,N/A,Chicago,IL,,,,,,,
+64,"Manager, Vendor Risk Management (Remote)",3.6,CrowdStrike,Remote,2.0,Full-Time,"$115,000 - $185,000 a year - Full-time",,,115000.0,185000.0,per year,150000.0,150000.0,3.0,$100001 - $150000
+65,Data Scientist,3.4,ASRC Federal Holding Company,Remote,2.0,Full-Time,N/A,,,,,,,,,
+66,Senior Data Analyst,3.4,Encova Insurance,Remote,2.0,Full-Time,"$94,784 - $151,654 a year - Full-time",,,94784.0,151654.0,per year,123219.0,123219.0,3.0,$100001 - $150000
+67,Forecasting and Optimization Specialist - Remote,,Optum,"On-Site,Remote",1.0,Full-Time,"$88,000 - $173,200 a year",Eden Prairie,MN,88000.0,173200.0,per year,130600.0,130600.0,3.0,$100001 - $150000
+68,Real World Evidence (RWE) Data Scientist,,SimulStat,Remote,2.0,Contract,N/A,,,,,,,,,
+69,Senior Applied Data Scientist,2.8,"R1 RCM, Inc.",Remote,2.0,Full-Time,"$63,140.06 - $143,517.00 a year - Full-time",,,63140.06,143517.0,per year,103328.53,103328.53,3.0,$100001 - $150000
+70,Platform Consultant (Partners),3.6,Verint Systems Inc.,Remote,2.0,Full-Time,"$90,000 - $140,000 a year",,,90000.0,140000.0,per year,115000.0,115000.0,3.0,$100001 - $150000
+71,"Manager, Data Science and Artificial Intelligence",3.1,Reflex Media Inc.,"On-Site,Remote",1.0,Full-Time,N/A,Las Vegas,NV,,,,,,,
+72,Senior Data Analyst - Claims,3.4,Automobile Club of Southern California,"On-Site,Remote",1.0,Full-Time,N/A,Costa Mesa,CA,,,,,,,
+73,"Lead AI/ML Engineer, Algorithms & Research",4.2,Upwork,"On-Site,Remote",1.0,Full-Time,"$186,000 - $279,000 a year - Full-time",Boston,MA,186000.0,279000.0,per year,232500.0,232500.0,5.0,$200001 - $250000
+74,Technical Writer,3.0,GHX,Remote,2.0,Full-Time,"$64,600 - $86,100 a year",,,64600.0,86100.0,per year,75350.0,75350.0,2.0,$50001 - $100000
+76,Go to Market Manager - Services,3.7,Infor,Remote,2.0,Full-Time,N/A,,,,,,,,,
+77,"Senior AI Engineer, Financial Crimes (Cash App)",3.8,Afterpay,Remote,2.0,Full-Time,"$139,000 - $233,200 a year - Full-time",,,139000.0,233200.0,per year,186100.0,186100.0,4.0,$150001 - $200000
+78,AI/MLOps Full Stack Engineer (Digital Consulting Associate) - Remote,3.4,Huron Consulting Group Inc.,"On-Site,Remote",1.0,Full-Time,"$105,000 - $153,400 a year - Full-time",Chicago,IL,105000.0,153400.0,per year,129200.0,129200.0,3.0,$100001 - $150000
+79,"Customer Support Engineer, Machine Learning - US (Remote)",,Weights & Biases,Remote,2.0,Full-Time,"$81,000 - $111,000 a year - Full-time",,,81000.0,111000.0,per year,96000.0,96000.0,2.0,$50001 - $100000
+80,"Data Science Senior Manager, Financial Crimes",3.5,KeyBank,"On-Site,Remote",1.0,Full-Time,"$110,000 - $180,000 a year - Full-time",Brooklyn,OH,110000.0,180000.0,per year,145000.0,145000.0,3.0,$100001 - $150000
+81,SaaS Implementation Consultant,3.0,Precision Medicine Group,"On-Site,Remote",1.0,Full-Time,"$114,666 - $172,000 a year",Bethesda,MD,114666.0,172000.0,per year,143333.0,143333.0,3.0,$100001 - $150000
+82,Data Solutions Architect - AI,3.3,Cotiviti,Remote,2.0,Full-Time,"$120,000 - $160,000 a year - Full-time",,,120000.0,160000.0,per year,140000.0,140000.0,3.0,$100001 - $150000
+83,Product Machine Learning Research Leader,3.9,Netflix,Remote,2.0,Full-Time,N/A,,,,,,,,,
+84,Researcher,4.0,Chapin Hall at the University of Chicago,Remote,2.0,Full-Time,"$74,000 - $98,572 a year - Full-time",,,74000.0,98572.0,per year,86286.0,86286.0,2.0,$50001 - $100000
+85,Senior Data Scientist - Identity,3.8,Afterpay,"On-Site,Remote",1.0,Full-Time,"$120,700 - $213,000 a year - Full-time",San Francisco,CA,120700.0,213000.0,per year,166850.0,166850.0,4.0,$150001 - $200000
+86,Machine Learning Engineer,,Bitwerx Inc,Remote,2.0,Full-Time,N/A,,,,,,,,,
+87,Django Backend Developer,4.0,Spotter,"On-Site,Remote",1.0,Full-Time,N/A,Lemont,IL,,,,,,,
+88,Data Scientist,,"SHR Consulting Group, LLC","On-Site,Remote",1.0,Full-Time,N/A,Alexandria,VA,,,,,,,
+89,Oracle (EDQ) Administrator Visualization Anal,4.4,ATTAINX INC,"On-Site,Remote",1.0,Full-Time,"$60,000 - $65,000 a year - Full-time",Herndon,VA,60000.0,65000.0,per year,62500.0,62500.0,2.0,$50001 - $100000
+91,"Senior Analyst, Operations and Strategy",3.5,Lakeview Loan Servicing,"On-Site,Remote",1.0,Full-Time,"$120,000 - $140,000 a year - Full-time",Coral Gables,FL,120000.0,140000.0,per year,130000.0,130000.0,3.0,$100001 - $150000
+92,Head of AI Governance and Model Risk Management,3.5,Mission Lane,Remote,2.0,Full-Time,"$195,000 - $264,000 a year",,,195000.0,264000.0,per year,229500.0,229500.0,5.0,$200001 - $250000
+93,Data Scientist Principal (REMOTE) – Life Insurance Company,3.7,USAA,"On-Site,Remote",1.0,Full-Time,"$182,680 - $349,150 a year",San Antonio,TX,182680.0,349150.0,per year,265915.0,265915.0,6.0,$250001 - $300000
+94,Data Engineering Manager - Remote,3.5,NiSource,"On-Site,Remote",1.0,Full-Time,"$125,800 - $188,600 a year - Full-time",Columbus,OH,125800.0,188600.0,per year,157200.0,157200.0,4.0,$150001 - $200000
+95,Data Engineer,,Messari,Remote,2.0,Full-Time,N/A,,,,,,,,,
+96,Health Analytic Consultant - Remote in SE Region,3.7,UnitedHealthcare,"On-Site,Remote",1.0,Full-Time,N/A,Orlando,FL,,,,,,,
+97,Accounting Analyst,,WARWICK INVESTMENT GROUP LLC,"On-Site,Remote",1.0,Full-Time,N/A,Dallas,TX,,,,,,,
+98,Financial Modeling Analyst,3.8,American AgCredit,Remote,2.0,Full-Time,"$78,335.95 - $133,171.11 a year - Full-time",,,78335.95,133171.11,per year,105753.53,105753.53,3.0,$100001 - $150000
+99,Enterprise Data Architect (Remote),3.5,Jazz Pharmaceuticals,"On-Site,Remote",1.0,Full-Time,"$172,000 - $258,000 a year",Boston,MA,172000.0,258000.0,per year,215000.0,215000.0,5.0,$200001 - $250000
+100,Global Category Manager,4.2,Microsoft,"On-Site,Remote",1.0,Full-Time,"$94,600 - $200,500 a year - Full-time",Atlanta,GA,94600.0,200500.0,per year,147550.0,147550.0,3.0,$100001 - $150000
+101,Staff Machine Learning Engineer,4.0,General Motors,Remote,2.0,Full-Time,"$157,800 - $241,800 a year - Full-time",,,157800.0,241800.0,per year,199800.0,199800.0,4.0,$150001 - $200000
+102,Senior Data Scientist,,PHASTAR,Remote,2.0,Full-Time,N/A,,,,,,,,,
+103,Senior Data Scientist,3.2,Sagility,Remote,2.0,Full-Time,"$87,610 - $110,000 a year - Full-time",,,87610.0,110000.0,per year,98805.0,98805.0,2.0,$50001 - $100000
+106,Researcher in Machine Learning,3.6,Fujitsu,"On-Site,Remote",1.0,Full-Time,N/A,Santa Clara,CA,,,,,,,
+107,Project Manager,3.0,Watts Water Technologies,Remote,2.0,Full-Time,"$90,000 - $110,000 a year - Full-time",,,90000.0,110000.0,per year,100000.0,100000.0,2.0,$50001 - $100000
+108,"Associate Director, Commercial Data and Reporting",4.3,SAGE Therapeutics,Remote,2.0,Full-Time,"$146,791 - $201,837 a year - Full-time",,,146791.0,201837.0,per year,174314.0,174314.0,4.0,$150001 - $200000
+109,Quantitative Analyst Associate (Spring/Summer 2025),,Philadelphia Phillies Baseball Operations Department,Remote,2.0,Full-Time,N/A,,,,,,,,,
+110,Staff Data Scientist,3.3,Upstart,"On-Site,Remote",1.0,Full-Time,"$174,900 - $242,000 a year",San Mateo,CA,174900.0,242000.0,per year,208450.0,208450.0,5.0,$200001 - $250000
+111,Staff Data Scientist (Applied ML),4.0,Coinbase,Remote,2.0,Full-Time,"$201,450 - $237,000 a year - Full-time",,,201450.0,237000.0,per year,219225.0,219225.0,5.0,$200001 - $250000
+112,ML Engineer L5 - Ads Platform Engineering (Forecasting),3.9,Netflix,Remote,2.0,Full-Time,"$100,000 - $720,000 a year - Full-time",,,100000.0,720000.0,per year,410000.0,410000.0,8.0,$400001 - $500000
+113,"Sr. Consultants, Data Science and Analytics",3.8,TransUnion,Remote,2.0,Full-Time,"$119,000 - $135,000 a year - Full-time",,,119000.0,135000.0,per year,127000.0,127000.0,3.0,$100001 - $150000
+114,Machine Learning Infrastructure Engineer,3.7,Handshake,"On-Site,Remote",1.0,Full-Time,"$150,000 - $190,000 a year - Full-time",San Francisco Bay Area,CA,150000.0,190000.0,per year,170000.0,170000.0,4.0,$150001 - $200000
+115,Senior Technical Product Manager - AI Accelerator - Remote,,Mayo Clinic,"On-Site,Remote",1.0,Full-Time,"$122,387.20 - $177,444.80 a year",Rochester,MN,122387.2,177444.8,per year,149916.0,149916.0,3.0,$100001 - $150000
+116,Staff Applied Scientist,,Afresh,Remote,2.0,Full-Time,N/A,,,,,,,,,
+117,Machine Learning Engineer (Remote),3.5,Progressive Leasing,Remote,2.0,Full-Time,N/A,,,,,,,,,
+119,Analysis and Insights Specialist,2.9,Incubeta,"On-Site,Remote",1.0,Full-Time,"$80,000 - $110,000 a year - Full-time",Baltimore,MD,80000.0,110000.0,per year,95000.0,95000.0,2.0,$50001 - $100000
+121,Data visualization,,,Remote,2.0,Full-Time,N/A,N/A,,,,,,,,
+122,"Associate Client Partner, Data and People Analytics",3.4,KORNFERRY,Remote,2.0,Full-Time,N/A,,,,,,,,,
+123,"Senior Machine Learning Modeler, Financial Crimes (Cash App)",3.8,Afterpay,"On-Site,Remote",1.0,Full-Time,"$139,000 - $233,200 a year - Full-time",San Francisco,CA,139000.0,233200.0,per year,186100.0,186100.0,4.0,$150001 - $200000
+124,Transit and Review Supervisor,3.3,Resident Home,Remote,2.0,Full-Time,$27 - $29 an hour,,,27.0,29.0,per hour,28.0,58240.0,2.0,$50001 - $100000
+125,Data Scientist – Editorial Data-Driven Publishing,3.9,HarperCollins Publishers,Remote,2.0,Full-Time,"$100,000 - $110,000 a year",,,100000.0,110000.0,per year,105000.0,105000.0,3.0,$100001 - $150000
+126,Healthcare Provider Data SME,3.9,Logistics Management Institute,Remote,2.0,Full-Time,N/A,,,,,,,,,
+127,Analytics Consultant,,Focus Strategies,Remote,2.0,Full-Time,"$85,000 - $115,000 a year - Full-time",,,85000.0,115000.0,per year,100000.0,100000.0,2.0,$50001 - $100000
+128,Principal Data Scientist - Remote,3.6,UnitedHealth Group,"On-Site,Remote",1.0,Full-Time,"$104,700 - $190,400 a year - Full-time",Eden Prairie,MN,104700.0,190400.0,per year,147550.0,147550.0,3.0,$100001 - $150000
+129,Clinical Apps Professional 4 Cadence/Prelude - IS - Epic - FT - Day - Remote,4.1,"University of California, Irvine","On-Site,Remote",1.0,Full-Time,"$104,900 - $198,900 a year - Full-time",Irvine,CA,104900.0,198900.0,per year,151900.0,151900.0,4.0,$150001 - $200000
+130,Statistician 2,4.0,E. & J. Gallo,Remote,2.0,Full-Time,"$98,000 - $147,000 a year - Full-time",,,98000.0,147000.0,per year,122500.0,122500.0,3.0,$100001 - $150000
+131,"Senior Data Scientist, Lodging Pricing",3.1,Hopper,Remote,2.0,Full-Time,N/A,,,,,,,,,
+132,"Adjunct Faculty, Data Analytics, Artificial Intelligence",4.3,Indiana Wesleyan University,Remote,2.0,Full-Time,N/A,,,,,,,,,
+133,"Lead Data Scientist - Search (NLP, Information Retrieval, Query, Applied ML)(Remote Or Hybrid)",3.5,Target,"On-Site,Remote",1.0,Full-Time,"$126,600 - $273,500 a year - Full-time",Minneapolis,MN,126600.0,273500.0,per year,200050.0,200050.0,5.0,$200001 - $250000
+134,Senior Machine Learning Engineer (Modeling) - Support,3.8,Afterpay,"On-Site,Remote",1.0,Full-Time,"$139,000 - $233,200 a year - Full-time",San Francisco,CA,139000.0,233200.0,per year,186100.0,186100.0,4.0,$150001 - $200000
+135,Research Project Manager,3.9,American Heart Association,"On-Site,Remote",1.0,Full-Time,"$65,000 - $85,000 a year - Full-time",Dallas,TX,65000.0,85000.0,per year,75000.0,75000.0,2.0,$50001 - $100000
+137,"Senior Clinical Programmer, Data Management (Contractor) (Office or Remote)",4.3,Arcus Biosciences,"On-Site,Remote",1.0,Contract,N/A,Brisbane,CA,,,,,,,
+138,AI Engineer,3.1,Ensemble Health Partners,Remote,2.0,Full-Time,N/A,,,,,,,,,
+139,Sr. Manager Data Analytics - Remote,3.7,UnitedHealthcare,"On-Site,Remote",1.0,Full-Time,"$104,700 - $190,400 a year - Full-time",Minnetonka,MN,104700.0,190400.0,per year,147550.0,147550.0,3.0,$100001 - $150000
+140,Technical Data Scientist/ETL Engineer,3.8,Govcio LLC,Remote,2.0,Full-Time,"$160,000 - $180,000 a year - Full-time",,,160000.0,180000.0,per year,170000.0,170000.0,4.0,$150001 - $200000
+141,"Lead Director, Data Science - AI",3.2,CVS Health,"On-Site,Remote",1.0,Full-Time,"$100,000 - $288,400 a year - Full-time",New York,NY,100000.0,288400.0,per year,194200.0,194200.0,4.0,$150001 - $200000
+142,"Staff Machine Learning Engineer, Content Understanding",3.8,Pinterest,"On-Site,Remote",1.0,Full-Time,"$166,694 - $342,844 a year",Palo Alto,CA,166694.0,342844.0,per year,254769.0,254769.0,6.0,$250001 - $300000
+143,"Data Analytics, Manager",3.5,Velcro USA Inc.,Remote,2.0,Full-Time,N/A,,,,,,,,,
+144,Distribution Industry Software Implementation Consultant,3.7,Infor,Remote,2.0,Full-Time,N/A,,,,,,,,,
+145,"Senior AI, Machine Learning Engineer - Remote",,Optum,"On-Site,Remote",1.0,Full-Time,"$88,000 - $173,200 a year",San Francisco,CA,88000.0,173200.0,per year,130600.0,130600.0,3.0,$100001 - $150000
+146,Data Scientist- CalAIM,3.8,"Public Health Foundation Enterprises, In","On-Site,Remote",1.0,Full-Time,$51.00 - $68.72 an hour - Full-time,Los Angeles,CA,51.0,68.72,per hour,59.86,124508.8,3.0,$100001 - $150000
+147,Project Manager (Epic Front-End Revenue Cycle & Digital Tools Implementation),,The Wilshire Group,"On-Site,Remote",1.0,Full-Time,$100 - $105 an hour,Los Angeles,CA,100.0,105.0,per hour,102.5,213200.0,5.0,$200001 - $250000
+148,"NLP LLM Operations Architect & AWS Engineer, Healthcare & Life Sciences",4.5,Citeline,Remote,2.0,Full-Time,"$120,000 - $150,000 a year - Full-time",,,120000.0,150000.0,per year,135000.0,135000.0,3.0,$100001 - $150000
+149,"Associate Consultant, Healthcare Strategy and Analytics Consulting - PhD Only (MASC)",3.7,IQVIA,Remote,2.0,Full-Time,"$72,900 - $121,500 a year - Full-time",,,72900.0,121500.0,per year,97200.0,97200.0,2.0,$50001 - $100000
+150,Carrier Optimization & Analytics Specialist,2.7,Insurify,Remote,2.0,Full-Time,N/A,,,,,,,,,
+152,Data Scientist,3.7,UST Global,"On-Site,Remote",1.0,Full-Time,"$90,000 - $136,000 a year - Full-time",Ashburn,VA,90000.0,136000.0,per year,113000.0,113000.0,3.0,$100001 - $150000
+153,"Software Engineer (Machine Learning Models, Data Science)",5.0,VectorWorks,Remote,2.0,Full-Time,N/A,,,,,,,,,
+154,"Director of Data Science, Healthcare (remote)",3.2,Inmar,Remote,2.0,Full-Time,N/A,,,,,,,,,
+155,Director of Data Science,1.5,Homethrive,Remote,2.0,Full-Time,N/A,,,,,,,,,
+161,Sr Statistical Programmer,,Syneos - Clinical and Corporate - Prod,Remote,2.0,Full-Time,N/A,,,,,,,,,
+165,"Staff Product Manager, Empathetic AI",3.8,Pinterest,"On-Site,Remote",1.0,Full-Time,"$148,049 - $304,496 a year",San Francisco,CA,148049.0,304496.0,per year,226272.5,226272.5,5.0,$200001 - $250000
+167,Faculty Research Assistant (Internal Employment Opportunity),4.2,Oregon State University,"On-Site,Remote",1.0,Full-Time,N/A,Corvallis,OR,,,,,,,
+168,"Epic Clinical Analyst - Senior - Radiant, Cupid, Lumens",3.5,Columbus Regional Health,"On-Site,Remote",1.0,Full-Time,$40.11 - $64.06 an hour - Full-time,Columbus,IN,40.11,64.06,per hour,52.085,108336.8,3.0,$100001 - $150000
+169,Senior Data Operations Programmer/Senior Clinical Data Coordinator,,PHASTAR,Remote,2.0,Full-Time,N/A,N/A,,,,,,,,
+170,Sr. Market Intelligence & Data Analyst - Stop Loss - Remote,3.2,Symetra Financial,Remote,2.0,Full-Time,"$75,300 - $125,600 a year - Full-time",,,75300.0,125600.0,per year,100450.0,100450.0,3.0,$100001 - $150000
+171,Senior Quantitative User Experience Researcher - Support Quality & Trust,3.8,Afterpay,"On-Site,Remote",1.0,Full-Time,"$153,000 - $270,000 a year - Full-time",San Francisco,CA,153000.0,270000.0,per year,211500.0,211500.0,5.0,$200001 - $250000
+172,AI/Machine Learning Software Engineer (Telework within the DMV),,Tesla Government,Remote,2.0,Full-Time,N/A,N/A,,,,,,,,
+173,Research Analyst (Augmented/Mixed/Virtual Reality Researcher),4.0,CNA,Remote,2.0,Full-Time,"$100,000 - $125,000 a year - Full-time",,,100000.0,125000.0,per year,112500.0,112500.0,3.0,$100001 - $150000
+174,Product Manager - Marchex Platform Services (MPS),3.4,Marchex Inc.,Remote,2.0,Full-Time,"$100,000 - $120,000 a year - Full-time",,,100000.0,120000.0,per year,110000.0,110000.0,3.0,$100001 - $150000
+175,Bixal,3.4,,Remote,2.0,Full-Time,N/A,N/A,,,,,,,,
+176,Upstream Content & Analytics Technical Specialist,3.9,S&P Global,"On-Site,Remote",1.0,Full-Time,"$75,000 - $100,000 a year",Austin,TX,75000.0,100000.0,per year,87500.0,87500.0,2.0,$50001 - $100000
+177,Pinterest,3.8,,Remote,2.0,Full-Time,"$148,049 - $304,496 a year",N/A,,148049.0,304496.0,per year,226272.5,226272.5,5.0,$200001 - $250000
+178,Logistics Management Institute,3.9,,Remote,2.0,Full-Time,N/A,N/A,,,,,,,,
+179,Senior Technical Product Manager for Data Analytics & Digital Product - Remote,3.2,CVS Health,"On-Site,Remote",1.0,Full-Time,"$106,605 - $284,280 a year - Full-time",Boston,MA,106605.0,284280.0,per year,195442.5,195442.5,4.0,$150001 - $200000
+180,Auditor Technical Trainer (Outpatient/Specialty Audits),3.3,Cotiviti,Remote,2.0,Full-Time,"$99,000 a year - Full-time",,,99000.0,,per year,99000.0,99000.0,2.0,$50001 - $100000
+182,Senior Data Scientist,3.9,Atlassian,"On-Site,Remote",1.0,Full-Time,"$145,300 - $233,400 a year - Full-time",San Francisco,CA,145300.0,233400.0,per year,189350.0,189350.0,4.0,$150001 - $200000
+183,Secondary Marketing Analytics Leader,3.7,City National Bank,"On-Site,Remote",1.0,Full-Time,"$87,027 - $138,965 a year",Austin,TX,87027.0,138965.0,per year,112996.0,112996.0,3.0,$100001 - $150000
+188,"Machine Learning Platform Product Manager, Inference",3.9,Netflix,"On-Site,Remote",1.0,Full-Time,"$120,000 - $515,000 a year - Full-time",Los Gatos,CA,120000.0,515000.0,per year,317500.0,317500.0,7.0,$300001 - $400000
+192,Medicaid Payment & Financing Researcher/Sr. Researcher (Remote Eligible),3.8,Mathematica Policy Research,"On-Site,Remote",1.0,Full-Time,"$100,000 - $150,000 a year - Full-time",Washington,DC,100000.0,150000.0,per year,125000.0,125000.0,3.0,$100001 - $150000
+193,Analytics Visualization Developer - CDH - Remote,,Mayo Clinic,"On-Site,Remote",1.0,Full-Time,"$80,537.60 - $112,777.60 a year",Rochester,MN,80537.6,112777.6,per year,96657.6,96657.6,2.0,$50001 - $100000
+197,Data Product Manager (Hybrid/Remote),3.8,UMB Financial Corporation,"On-Site,Remote",1.0,Full-Time,"$83,200 - $214,560 a year - Full-time",Kansas City,MO,83200.0,214560.0,per year,148880.0,148880.0,3.0,$100001 - $150000
+198,Data Engineering & Analytics Manager,,Underline Infrastructure,"On-Site,Remote",1.0,Full-Time,"$140,000 - $170,000 a year - Full-time",Dallas,TX,140000.0,170000.0,per year,155000.0,155000.0,4.0,$150001 - $200000
+199,Regulatory Operations Reporting Analyst,3.1,WellSense Health Plan,Remote,2.0,Full-Time,N/A,,,,,,,,,
+200,Machine Learning Infrastructure Engineer,4.0,Flip Fit,Remote,2.0,Full-Time,N/A,,,,,,,,,
+201,Senior Data Scientist,,Canoe Intelligence,"On-Site,Remote",1.0,Full-Time,"$140,000 - $180,000 a year",New York,NY,140000.0,180000.0,per year,160000.0,160000.0,4.0,$150001 - $200000
+202,Data Digital Transformation Lead,4.1,Carnival Cruise Line,"On-Site,Remote",1.0,Full-Time,N/A,Miami,FL,,,,,,,
+203,"Senior Data Analyst, EAB Seramount Consulting",3.8,EAB,Remote,2.0,Full-Time,"$62,500 - $90,000 a year - Full-time",,,62500.0,90000.0,per year,76250.0,76250.0,2.0,$50001 - $100000
+204,GTS Global Solution Architect (ML/AI),4.1,Splunk,Remote,2.0,Full-Time,"$144,960 - $249,150 a year - Full-time",,,144960.0,249150.0,per year,197055.0,197055.0,4.0,$150001 - $200000
+205,AI Solutions Lead,3.5,The Standard,"On-Site,Remote",1.0,Full-Time,"$104,750 - $178,000 a year - Full-time",Portland,OR,104750.0,178000.0,per year,141375.0,141375.0,3.0,$100001 - $150000
+206,Client Solutions Partner,3.4,Quantiphi,Remote,2.0,Full-Time,N/A,,,,,,,,,
+207,"Senior Director, Artificial Intelligence and Machine Learning Operations",3.1,Fortrea,"On-Site,Remote",1.0,Full-Time,"$135,000 - $195,000 a year - Full-time",Durham,NC,135000.0,195000.0,per year,165000.0,165000.0,4.0,$150001 - $200000
+208,"Product Manager, Commerce Algorithms",3.9,Netflix,"On-Site,Remote",1.0,Full-Time,"$240,000 - $725,000 a year - Full-time",Los Gatos,CA,240000.0,725000.0,per year,482500.0,482500.0,8.0,$400001 - $500000
+209,Associate Director Business Intelligence - Remote,,Optum,"On-Site,Remote",1.0,Full-Time,"$104,700 - $190,400 a year",Brentwood,TN,104700.0,190400.0,per year,147550.0,147550.0,3.0,$100001 - $150000
+210,"Senior Product Manager, Visual AI",3.8,Pinterest,"On-Site,Remote",1.0,Full-Time,"$123,470 - $254,024 a year",San Francisco,CA,123470.0,254024.0,per year,188747.0,188747.0,4.0,$150001 - $200000
+212,Senior AI and Machine Learning Engineer,3.8,Hewlett Packard Enterprise,"On-Site,Remote",1.0,Full-Time,"$128,000 - $295,000 a year - Full-time",Colorado,,128000.0,295000.0,per year,211500.0,211500.0,5.0,$200001 - $250000
+213,"Sales Engineer, West",2.3,Dataiku,Remote,2.0,Full-Time,"$140,000 - $175,000 a year",,,140000.0,175000.0,per year,157500.0,157500.0,4.0,$150001 - $200000
+214,Information Security Architect - AI,3.3,Cotiviti,Remote,2.0,Full-Time,"$150,000 - $180,000 a year - Full-time",,,150000.0,180000.0,per year,165000.0,165000.0,4.0,$150001 - $200000
+215,Data Architect,2.9,"Somatus, Inc.","On-Site,Remote",1.0,Full-Time,"Up to $150,000 a year - Full-time",McLean,VA,150000.0,,per year,150000.0,150000.0,3.0,$100001 - $150000
+216,Data Scientist,3.4,Serco North America,"On-Site,Remote",1.0,Full-Time,N/A,Huntsville,AL,,,,,,,
+217,"1099 Drone Pilot - Amarillo, Tx",2.9,Bees360 Inc,Remote,2.0,Contract,N/A,,,,,,,,,
+218,Senior Data Scientist,2.3,Inotiv,"On-Site,Remote",1.0,Full-Time,N/A,Raleigh,NC,,,,,,,
+219,Senior AI/ML Cybersecurity Engineer - Remote,3.3,Optum,"On-Site,Remote",1.0,Full-Time,"$88,000 - $173,200 a year - Full-time",Eden Prairie,MN,88000.0,173200.0,per year,130600.0,130600.0,3.0,$100001 - $150000
+220,Senior Data Scientist,,AllStars-IT,Remote,2.0,Full-Time,N/A,,,,,,,,,
+221,Optimization Specialist,3.3,Quad,Remote,2.0,Full-Time,N/A,,,,,,,,,
+222,Compliance Model Review Advisor (Remote),3.4,M&T Bank,"On-Site,Remote",1.0,Full-Time,"$97,869.52 - $163,115.87 a year - Full-time",Clanton,AL,97869.52,163115.87,per year,130492.695,130492.695,3.0,$100001 - $150000
+223,Requirements Analyst,3.5,"Systems Planning and Analysis, Inc.",Remote,2.0,Full-Time,N/A,,,,,,,,,
+227,Learning Optimization PM (remote),3.3,GP Strategies Corporation,"On-Site,Remote",1.0,Full-Time,N/A,Columbia,MD,,,,,,,
+228,Senior Machine Learning Engineer - Risk/Fraud,,Step Mobile,"On-Site,Remote",1.0,Full-Time,N/A,Palo Alto,CA,,,,,,,
+229,Generative AI Advisor,3.5,Chenega Corporation,"On-Site,Remote",1.0,Full-Time,"$109,000 - $150,000 a year - Full-time",Washington,DC,109000.0,150000.0,per year,129500.0,129500.0,3.0,$100001 - $150000
+230,Senior Data Scientist,3.2,Comscore,Remote,2.0,Full-Time,N/A,,,,,,,,,
+231,GTS Global Solution Architect (ML/AI Strategic Content),4.1,Splunk,Remote,2.0,Full-Time,"$127,360 - $218,900 a year - Full-time",,,127360.0,218900.0,per year,173130.0,173130.0,4.0,$150001 - $200000
+232,Statistician 3,4.0,E. & J. Gallo,Remote,2.0,Full-Time,"$105,400 - $158,000 a year - Full-time",,,105400.0,158000.0,per year,131700.0,131700.0,3.0,$100001 - $150000
+233,Audit Data Analytics Lead,3.4,Webster Bank,"On-Site,Remote",1.0,Full-Time,N/A,Southington,CT,,,,,,,
+234,Senior Product Manager - AI Data Foundation (Remote),,Home Depot / THD,"On-Site,Remote",1.0,Full-Time,"$90,000 - $190,000 a year",Atlanta,GA,90000.0,190000.0,per year,140000.0,140000.0,3.0,$100001 - $150000
+235,Marketing & Web Analytics Manager,4.2,Abilene Christian University,Remote,2.0,Full-Time,N/A,,,,,,,,,
+236,AI Architect - USA Remote,3.5,Cepheid,"On-Site,Remote",1.0,Full-Time,"$130,000 - $140,000 a year - Full-time",Austin,TX,130000.0,140000.0,per year,135000.0,135000.0,3.0,$100001 - $150000
+237,Sr Revenue Data Analyst,3.7,Genesys,Remote,2.0,Full-Time,N/A,,,,,,,,,
+238,Senior Director of Controls & Compliance New,3.3,Resident Home,Remote,2.0,Full-Time,"$150,000 - $200,000 a year",,,150000.0,200000.0,per year,175000.0,175000.0,4.0,$150001 - $200000
+239,Sr. Machine Learning Engineer,3.4,O'Reilly Media,Remote,2.0,Full-Time,"$140,000 - $160,000 a year",,,140000.0,160000.0,per year,150000.0,150000.0,3.0,$100001 - $150000
+240,"Associate, Healthcare & Analytics Strategy Consulting (MASC, Hybrid)",3.7,IQVIA,Remote,2.0,Full-Time,"$80,100 - $133,500 a year - Full-time",,,80100.0,133500.0,per year,106800.0,106800.0,3.0,$100001 - $150000
+242,Mid Data Architect,3.3,Steampunk,"On-Site,Remote",1.0,Full-Time,"$125,000 - $175,000 a year",McLean,VA,125000.0,175000.0,per year,150000.0,150000.0,3.0,$100001 - $150000
+243,"BIOINFORMATICIAN II, DCRI",4.0,Duke University,"On-Site,Remote",1.0,Full-Time,N/A,Durham,NC,,,,,,,
+244,Brand Partnerships Insights and Measurement Partner,4.0,Roblox,"On-Site,Remote",1.0,Full-Time,"$158,690 - $192,590 a year",San Mateo,CA,158690.0,192590.0,per year,175640.0,175640.0,4.0,$150001 - $200000
+245,Manager of Data Science - Media Network (REMOTE),3.4,DICK'S Sporting Goods,Remote,2.0,Full-Time,"$95,200 - $158,800 a year - Full-time",,,95200.0,158800.0,per year,127000.0,127000.0,3.0,$100001 - $150000
+246,Product Analyst - 270/271 Eligibility Transactions,3.8,Softrams,Remote,2.0,Full-Time,N/A,,,,,,,,,
+247,Data Scientist- Mid,3.8,Intelligent Waves LLC,"On-Site,Remote",1.0,Full-Time,N/A,Tysons,VA,,,,,,,
+248,"Senior Manager, ML/AI",,Lovelytics,Remote,2.0,Full-Time,"$135,000 - $190,000 a year - Full-time",,,135000.0,190000.0,per year,162500.0,162500.0,4.0,$150001 - $200000
+249,Lead AI/ML Scientist - Remote,,Optum,"On-Site,Remote",1.0,Full-Time,"$104,700 - $190,400 a year",Eden Prairie,MN,104700.0,190400.0,per year,147550.0,147550.0,3.0,$100001 - $150000
+250,"Manager, IT Data Management & Analytics",3.7,Infor,Remote,2.0,Full-Time,N/A,,,,,,,,,
+251,"Postdoc, Computer Vision – AI/ML Radiology",4.2,Johnson & Johnson,"On-Site,Remote",1.0,Full-Time,"$95,000 a year",New Brunswick,NJ,95000.0,,per year,95000.0,95000.0,2.0,$50001 - $100000
+252,Actuarial Data Scientist,3.7,Employers,Remote,2.0,Full-Time,"$90,000 - $130,000 a year",,,90000.0,130000.0,per year,110000.0,110000.0,3.0,$100001 - $150000
+253,Senior Director of Measurement/Analytics - REMOTE,,Strategic Resolution Experts (SRE),Remote,2.0,Full-Time,"$80,000 - $180,000 a year",,,80000.0,180000.0,per year,130000.0,130000.0,3.0,$100001 - $150000
+254,Clinical Research Director,3.1,Teladoc Health,Remote,2.0,Full-Time,"$20,000 - $170,000 a year - Full-time",,,20000.0,170000.0,per year,95000.0,95000.0,2.0,$50001 - $100000
+255,Sr Operations Research Scientist - Last Mile Fulfillment(Remote Or Hybrid),3.5,Target,"On-Site,Remote",1.0,Full-Time,"$93,800 - $168,800 a year - Full-time",Minneapolis,MN,93800.0,168800.0,per year,131300.0,131300.0,3.0,$100001 - $150000
+257,Machine Learning Engineer,3.3,Kiddom,Remote,2.0,Full-Time,"$150,000 - $200,000 a year - Full-time",,,150000.0,200000.0,per year,175000.0,175000.0,4.0,$150001 - $200000
+258,MLOps Engineer,3.5,Datasite,Remote,2.0,Full-Time,"$100,000 - $160,000 a year - Full-time",,,100000.0,160000.0,per year,130000.0,130000.0,3.0,$100001 - $150000
+259,AI/ML Researcher,2.8,Sema4.ai,"On-Site,Remote",1.0,Full-Time,N/A,San Francisco,CA,,,,,,,
+260,Senior AI/ML Scientist - Remote,3.3,Optum,"On-Site,Remote",1.0,Full-Time,"$88,000 - $173,200 a year - Full-time",Eden Prairie,MN,88000.0,173200.0,per year,130600.0,130600.0,3.0,$100001 - $150000
+261,Finance Manager,3.3,Resident Home,Remote,2.0,Full-Time,"$115,000 - $140,000 a year",,,115000.0,140000.0,per year,127500.0,127500.0,3.0,$100001 - $150000
+262,"Consultant - Commercial Solutions & Insights Hub (CSIH), Analytics Pillar",3.7,IQVIA,Remote,2.0,Full-Time,"$90,800 - $151,300 a year - Full-time",,,90800.0,151300.0,per year,121050.0,121050.0,3.0,$100001 - $150000
+263,"Senior Machine Learning Engineer, Checkout Underwriting",3.5,Affirm,Remote,2.0,Full-Time,"$169,000 - $240,000 a year",,,169000.0,240000.0,per year,204500.0,204500.0,5.0,$200001 - $250000
+264,Credit Risk Sr Professional,3.4,Citizens,"On-Site,Remote",1.0,Full-Time,N/A,Frisco,TX,,,,,,,
+265,"Technical Lead, Business Intelligence",4.3,eXp Realty,Remote,2.0,Full-Time,N/A,,,,,,,,,
+266,PALANTIR Senior Data Engineer- Remote,3.9,Cognizant,"On-Site,Remote",1.0,Full-Time,"$101,000 - $130,000 a year - Full-time",Stillwater,MN,101000.0,130000.0,per year,115500.0,115500.0,3.0,$100001 - $150000
+267,Staff Research Scientist,3.3,Upstart,"On-Site,Remote",1.0,Full-Time,"$174,900 - $242,000 a year",San Mateo,CA,174900.0,242000.0,per year,208450.0,208450.0,5.0,$200001 - $250000
+268,Staff Data Engineer,3.1,BlackLine,Remote,2.0,Full-Time,"$138,000 - $184,000 a year",,,138000.0,184000.0,per year,161000.0,161000.0,4.0,$150001 - $200000
+269,"Java / Python Developer, Legal Innovation and Technology Lab – Clinical Fellow (Remote)",4.1,Suffolk University,"On-Site,Remote",1.0,Full-Time,N/A,Boston,MA,,,,,,,
+270,"Associate Vice President, IT Transformation and Enablement",3.6,Humana,"On-Site,Remote",1.0,Full-Time,"$199,400 - $274,400 a year - Full-time",Washington,DC,199400.0,274400.0,per year,236900.0,236900.0,5.0,$200001 - $250000
+272,Post Doctoral Fellow - Digital Health & Therapeutics in Mental Health,4.0,"BI Pharmaceuticals, Inc.","On-Site,Remote",1.0,Full-Time,N/A,Ridgefield,CT,,,,,,,
+273,Senior Machine Learning Engineer,3.3,Orbis,"On-Site,Remote",1.0,Full-Time,"$210,000 - $260,000 a year - Permanent",New York,NY,210000.0,260000.0,per year,235000.0,235000.0,5.0,$200001 - $250000
+274,"Project Manager, Senior",3.7,Infor,Remote,2.0,Full-Time,N/A,,,,,,,,,
+275,Principal Data Scientist,3.5,The Standard,"On-Site,Remote",1.0,Full-Time,"$163,500 - $240,000 a year - Full-time",Portland,OR,163500.0,240000.0,per year,201750.0,201750.0,5.0,$200001 - $250000
+276,Principal Data Scientist,3.3,iHerb,"On-Site,Remote",1.0,Full-Time,"$176,534 - $264,801 a year",Irvine,CA,176534.0,264801.0,per year,220667.5,220667.5,5.0,$200001 - $250000
+277,AI Software Engineer,4.2,Yale University,"On-Site,Remote",1.0,Full-Time,N/A,New Haven,CT,,,,,,,
+278,Engineering Manager - Applied AI,3.8,Zynga,Remote,2.0,Full-Time,"$100,900 - $182,780 a year",,,100900.0,182780.0,per year,141840.0,141840.0,3.0,$100001 - $150000
+279,Selection Consultants & Advisory Firms Director,3.7,Infor,Remote,2.0,Full-Time,N/A,,,,,,,,,
+280,"Director, Data Integration",3.0,Arcadia.io,Remote,2.0,Full-Time,N/A,,,,,,,,,
+281,Senior Data Scientist - NLP,3.8,Analytica,Remote,2.0,Full-Time,N/A,,,,,,,,,
+282,Senior Research Scientist,3.4,Upstart,Remote,2.0,Full-Time,"$149,800 - $207,000 a year",,,149800.0,207000.0,per year,178400.0,178400.0,4.0,$150001 - $200000
+283,Associate Director Research Analytics,3.6,Advocate Aurora Health,"On-Site,Remote",1.0,Full-Time,N/A,Allenton,WI,,,,,,,
+284,"Sr Director - Banking, Financial Services & AI Strategy (Remote US)",3.7,Gartner,Remote,2.0,Full-Time,"$150,000 - $190,000 a year",N/A,,150000.0,190000.0,per year,170000.0,170000.0,4.0,$150001 - $200000
+285,Senior Machine Learning Engineer - Remote India,,LeewayHertz,"On-Site,Remote",1.0,Full-Time,N/A,San Francisco,CA,,,,,,,
+287,AI/ML Architect - USA Remote,3.6,Beckman Coulter Diagnostics,"On-Site,Remote",1.0,Full-Time,"$140,000 - $165,000 a year - Full-time",New York,NY,140000.0,165000.0,per year,152500.0,152500.0,4.0,$150001 - $200000
+288,Adjunct Professor of Data Science,,Houston Christian University,Remote,2.0,Full-Time,N/A,,,,,,,,,
+289,"Senior Director, Data Governance",3.9,Alzheimer's Association,"On-Site,Remote",1.0,Full-Time,"$140,000 - $175,000 a year - Full-time",Chicago,IL,140000.0,175000.0,per year,157500.0,157500.0,4.0,$150001 - $200000
+302,"Deputy General Counsel, Privacy",3.9,Atlassian,"On-Site,Remote",1.0,Full-Time,"$324,000 - $400,000 a year - Full-time",San Francisco,CA,324000.0,400000.0,per year,362000.0,362000.0,7.0,$300001 - $400000
+303,Analytics Engineer,2.5,Evolve Vacation Rentals,Remote,2.0,Full-Time,"$120,000 - $150,000 a year",,,120000.0,150000.0,per year,135000.0,135000.0,3.0,$100001 - $150000
+304,Data Modeler,3.8,Fortune Brands,"On-Site,Remote",1.0,Full-Time,"$90,000 - $110,000 a year - Full-time",North Olmsted,OH,90000.0,110000.0,per year,100000.0,100000.0,2.0,$50001 - $100000
+305,"Sr Staff ML Engineer, Inclusive AI",3.8,Pinterest,Remote,2.0,Full-Time,"$204,754 - $421,578 a year",,,204754.0,421578.0,per year,313166.0,313166.0,7.0,$300001 - $400000
+306,HP Sr Business Data Analyst,3.7,Point32Health,Remote,2.0,Full-Time,N/A,,,,,,,,,
+307,"Principal Architect, Machine Learning",,Lovelytics,Remote,2.0,Full-Time,N/A,,,,,,,,,
+308,Consultant for CBP Intelligence & Investigati,,Council For Logistics Research Inc,"On-Site,Remote",1.0,Full-Time,N/A,Washington,DC,,,,,,,
+309,"Vice President, Research & Analytics",4.1,Kilroy Realty,"On-Site,Remote",1.0,Full-Time,"$225,000 - $240,000 a year",Los Angeles,CA,225000.0,240000.0,per year,232500.0,232500.0,5.0,$200001 - $250000
+310,"Team Lead, Design",3.7,Infor,Remote,2.0,Full-Time,N/A,,,,,,,,,
+311,Senior Research Scientist,3.3,"Upstart Network, Inc.",Remote,2.0,Full-Time,"$149,800 - $207,000 a year",,,149800.0,207000.0,per year,178400.0,178400.0,4.0,$150001 - $200000
+312,Senior Data Engineer (Remote - US),,Energy Solutions - USA,"On-Site,Remote",1.0,Full-Time,"$135,000 - $165,000 a year",Oakland,CA,135000.0,165000.0,per year,150000.0,150000.0,3.0,$100001 - $150000
+313,"Sr Machine Learning Engineer, Inclusive / Responsible AI",3.8,Pinterest,"On-Site,Remote",1.0,Full-Time,"$141,990 - $292,128 a year",San Francisco,CA,141990.0,292128.0,per year,217059.0,217059.0,5.0,$200001 - $250000
+315,"Product Manager, Senior",3.7,Infor,Remote,2.0,Full-Time,N/A,,,,,,,,,
+317,"Staff Analyst, Credit Analytics",3.3,"Upstart Network, Inc.",Remote,2.0,Full-Time,"$157,000 - $217,000 a year",,,157000.0,217000.0,per year,187000.0,187000.0,4.0,$150001 - $200000
+318,Mgr - Engineering - Data Engineering & Marketplace,3.7,Thrivent,Remote,2.0,Full-Time,"$133,386 - $180,464 a year - Full-time",,,133386.0,180464.0,per year,156925.0,156925.0,4.0,$150001 - $200000
+320,Sr ML engineers,,Intellibee,Remote,2.0,Full-Time,N/A,,,,,,,,,
+321,"Software Engineer L7, Growth Engineering",3.9,Netflix,Remote,2.0,Full-Time,N/A,,,,,,,,,
+323,Agile Product Owner Senior Advisor- Hybrid,3.6,The Cigna Group,"On-Site,Remote",1.0,Full-Time,N/A,Raleigh,NC,,,,,,,
+326,Principal Applied Scientist,3.9,Cardlytics,Remote,2.0,Full-Time,N/A,,,,,,,,,
+327,Vice President; Quantitative Finance Analyst,3.8,Bank of America,"On-Site,Remote",1.0,Full-Time,"$131,800 - $150,000 a year - Full-time",Atlanta,GA,131800.0,150000.0,per year,140900.0,140900.0,3.0,$100001 - $150000
+329,Lead AI/ML Scientist,3.5,Datasite,Remote,2.0,Full-Time,"$175,000 - $300,000 a year - Full-time",,,175000.0,300000.0,per year,237500.0,237500.0,5.0,$200001 - $250000
+332,"Sr. Data Scientist, Sales Analytics",2.7,Rivian,Remote,2.0,Full-Time,"$129,300 - $183,600 a year - Full-time",,,129300.0,183600.0,per year,156450.0,156450.0,4.0,$150001 - $200000
+333,"Account Manager, Senior - Warehouse Management",3.7,Infor,Remote,2.0,Full-Time,N/A,,,,,,,,,
+334,"Manager, Machine Learning",3.3,"Upstart Network, Inc.",Remote,2.0,Full-Time,"$174,900 - $242,000 a year",,,174900.0,242000.0,per year,208450.0,208450.0,5.0,$200001 - $250000
+335,Medicare Risk Adjustment Analytics Advisor,3.6,The Cigna Group,Remote,2.0,Full-Time,"$95,200 - $158,600 a year - Full-time",,,95200.0,158600.0,per year,126900.0,126900.0,3.0,$100001 - $150000
+336,Senior Statistician,3.3,Lumanity,Remote,2.0,Full-Time,"$130,000 a year",,,130000.0,,per year,130000.0,130000.0,3.0,$100001 - $150000
+337,"Director, AI and Digital Foundry",3.3,Greif,Remote,2.0,Full-Time,"$175,000 - $205,000 a year - Full-time",,,175000.0,205000.0,per year,190000.0,190000.0,4.0,$150001 - $200000
+338,"Director, Product Marketing Strategy-Supply Chain",3.7,Infor,Remote,2.0,Full-Time,N/A,,,,,,,,,
+339,Senior Data Scientist - Asset Management Group,,PNC Financial Services Group,"On-Site,Remote",1.0,Full-Time,N/A,Pittsburgh,PA,,,,,,,
+340,"Data Scientist, Monetization (Technical Leadership)",4.1,Meta,Remote,2.0,Full-Time,"$206,000 - $281,000 a year",,,206000.0,281000.0,per year,243500.0,243500.0,5.0,$200001 - $250000
+341,"Director, Generative AI - Agents and Tooling - People Leader (Remote Eligible)",3.9,Capital One,"On-Site,Remote",1.0,Full-Time,N/A,San Francisco,CA,,,,,,,
+342,Data Analyst - Senior,,"TRIAEM, LLC","On-Site,Remote",1.0,Full-Time,N/A,Sterling,VA,,,,,,,
+343,Senior Credit Analyst,,Step Mobile,"On-Site,Remote",1.0,Full-Time,N/A,Palo Alto,CA,,,,,,,
+344,"Senior Director, RWD Analytics and Innovation",4.5,Citeline,Remote,2.0,Full-Time,"$150,000 - $200,000 a year - Full-time",,,150000.0,200000.0,per year,175000.0,175000.0,4.0,$150001 - $200000
+345,"Artificial Intelligence Scientist, Advanced",3.7,Zebra Technologies,"On-Site,Remote",1.0,Full-Time,"$133,000 - $199,400 a year",Frisco,TX,133000.0,199400.0,per year,166200.0,166200.0,4.0,$150001 - $200000
+347,Product Pricing Analyst,4.0,BMC Software,"On-Site,Remote",1.0,Full-Time,N/A,Houston,TX,,,,,,,
+348,"Associate Director R&D Quality Excellence, Analytics, and Innovation",3.2,BeiGene,Remote,2.0,Full-Time,"$134,400 - $184,400 a year - Full-time",,,134400.0,184400.0,per year,159400.0,159400.0,4.0,$150001 - $200000
+349,Senior Data Analyst,4.2,"D&G Support Services, LLC","On-Site,Remote",1.0,Full-Time,N/A,Arlington,VA,,,,,,,
+350,Quantitative Analytics / Analysis Manager (Remote),,CEDENT,"On-Site,Remote",1.0,Full-Time,N/A,Cleveland,OH,,,,,,,
+351,Data Services Senior Engagement Lead,3.9,ManTech,"On-Site,Remote",1.0,Full-Time,"$183,300 - $315,100 a year - Full-time",Herndon,VA,183300.0,315100.0,per year,249200.0,249200.0,5.0,$200001 - $250000
+352,Senior Principal Data Scientist,3.9,Atlassian,"On-Site,Remote",1.0,Full-Time,"$208,400 - $308,800 a year - Full-time",Seattle,WA,208400.0,308800.0,per year,258600.0,258600.0,6.0,$250001 - $300000
+353,"Director, Advanced Analytics & Insights",,Argenx,Remote,2.0,Full-Time,N/A,,,,,,,,,
+354,Principal Data Scientist,,Magnify Technologies,"On-Site,Remote",1.0,Full-Time,N/A,Seattle,WA,,,,,,,
+355,Autonomy Engineer - Simulations,3.7,May Mobility,Remote,2.0,Full-Time,"$157,000 - $180,000 a year",,,157000.0,180000.0,per year,168500.0,168500.0,4.0,$150001 - $200000
+356,Climate Science Expertise Sought for AI Training,2.1,Outlier,Remote,2.0,Contract,"$30 - $50 an hour - Contract, Freelance",,,30.0,50.0,per hour,40.0,83200.0,2.0,$50001 - $100000
+357,Lead Product Owner – Claims (Remote),3.3,Commonwealth Care Alliance,"On-Site,Remote",1.0,Full-Time,N/A,Boston,MA,,,,,,,
+358,Director,4.1,Youngstown State University,"On-Site,Remote",1.0,Full-Time,"$71,628 - $90,200 a year",Youngstown,OH,71628.0,90200.0,per year,80914.0,80914.0,2.0,$50001 - $100000
+359,"Series B, Data Analytics Platform: Security Engineer",,StackedSP Inc,Remote,2.0,Full-Time,"$175,000 - $250,000 a year - Full-time",N/A,,175000.0,250000.0,per year,212500.0,212500.0,5.0,$200001 - $250000
+360,Senior Marketing Scientist,3.2,GEICO,"On-Site,Remote",1.0,Full-Time,"$100,000 - $204,500 a year - Full-time",San Jose,CA,100000.0,204500.0,per year,152250.0,152250.0,4.0,$150001 - $200000
+362,Senior Software Engineer - AI/ML,,Mayo Clinic,"On-Site,Remote",1.0,Full-Time,"$134,888 - $195,624 a year",Rochester,MN,134888.0,195624.0,per year,165256.0,165256.0,4.0,$150001 - $200000
+364,"Senior Consultant, Advanced Technologies, Case Insights",3.0,"Epiq Systems, Inc.",Remote,2.0,Full-Time,"$105,711.30 - $211,422.00 a year - Full-time",,,105711.3,211422.0,per year,158566.65,158566.65,4.0,$150001 - $200000
+365,Principal Cyber Data Scientist,3.0,Expel,"On-Site,Remote",1.0,Full-Time,"$163,000 - $236,000 a year",Herndon,VA,163000.0,236000.0,per year,199500.0,199500.0,4.0,$150001 - $200000
+366,Data Scientist Engineer,4.0,Baer Group,"On-Site,Remote",1.0,Full-Time,N/A,Atlanta,GA,,,,,,,
+367,"VP of Engineering, Data and AI",3.9,Headspace,Remote,2.0,Full-Time,"$164,880 - $300,000 a year",,,164880.0,300000.0,per year,232440.0,232440.0,5.0,$200001 - $250000
+368,Senior Statistical Programmer - FSP,3.7,IQVIA,Remote,2.0,Full-Time,"$106,200 - $177,000 a year - Full-time",,,106200.0,177000.0,per year,141600.0,141600.0,3.0,$100001 - $150000
+369,Senior Digital Insights and Analytics Analyst,3.8,Constellation Brands,Remote,2.0,Full-Time,"$79,800 - $167,700 a year - Full-time",,,79800.0,167700.0,per year,123750.0,123750.0,3.0,$100001 - $150000
+370,Level III Responsible Artificial Intelligence Project Manager,3.4,Absolute Business Solutions Corp,Remote,2.0,Full-Time,N/A,N/A,,,,,,,,
+371,"Manager, Software Engineering (Machine Learning/ LLM)",3.9,Salesloft,"On-Site,Remote",1.0,Full-Time,N/A,Atlanta,GA,,,,,,,
+372,"Vice President, Data Solutions",3.4,Bixal,Remote,2.0,Full-Time,N/A,N/A,,,,,,,,
+374,Data Digital Transformation Lead,4.0,Holland America Line Inc,"On-Site,Remote",1.0,Full-Time,N/A,Miami,FL,,,,,,,
+375,"Senior-Staff Machine Learning, Responsible AI, Gen AI, Engineer",3.8,Saab Inc.,Remote,2.0,Full-Time,"$154,300 - $204,500 a year",,,154300.0,204500.0,per year,179400.0,179400.0,4.0,$150001 - $200000
+377,"Senior Evaluation Analyst, Population Health Division",3.9,Altarum,Remote,2.0,Full-Time,N/A,,,,,,,,,
+378,"Applied Scientist, International Seller Services",3.5,Amazon.com Services LLC,"On-Site,Remote",1.0,Full-Time,N/A,Austin,TX,,,,,,,
+379,Data Engineer II - Argentina / Mexico,,Syneos - Clinical and Corporate - Prod,Remote,2.0,Full-Time,N/A,,,,,,,,,
+380,Senior Engineer - Generative AI Product Engineering (Remote-Eligible),3.9,Capital One,"On-Site,Remote",1.0,Full-Time,N/A,McLean,VA,,,,,,,
+381,Senior Product Manager Data & Analytics (US Remote),3.4,IntelePeer,"On-Site,Remote",1.0,Full-Time,"$160,000 - $170,000 a year",Dania Beach,FL,160000.0,170000.0,per year,165000.0,165000.0,4.0,$150001 - $200000
+382,Planner,3.8,Amentum,Remote,2.0,Full-Time,N/A,,,,,,,,,
+383,"Lead Quantitative Analyst, Global Product",3.6,T. Rowe Price,"On-Site,Remote",1.0,Full-Time,N/A,Baltimore,MD,,,,,,,
+384,Sr Marketing Data Analyst (Mobile Apps),,Ad Hoc Labs,Remote,2.0,Full-Time,N/A,,,,,,,,,
+385,Lead Generative AI Machine Learning Engineer - Remote (NBMBAA Conference),3.9,S&P Global,"On-Site,Remote",1.0,Full-Time,"$108,000 - $210,000 a year",Washington,DC,108000.0,210000.0,per year,159000.0,159000.0,4.0,$150001 - $200000
+386,Principal Engineer - Gen AI Security Test Architect(Remote Or Hybrid),3.5,Target,"On-Site,Remote",1.0,Full-Time,"$144,400 - $311,900 a year - Full-time",Minneapolis,MN,144400.0,311900.0,per year,228150.0,228150.0,5.0,$200001 - $250000
+388,"Senior Machine Learning Engineer, Financial Crimes (Cash App)",3.8,Afterpay,Remote,2.0,Full-Time,"$139,000 - $233,200 a year - Full-time",,,139000.0,233200.0,per year,186100.0,186100.0,4.0,$150001 - $200000
+392,"Lead Algorithm/Data Architect, Artificial Intelligence - USA Remote",3.6,Beckman Coulter Diagnostics,"On-Site,Remote",1.0,Full-Time,"$150,000 - $170,000 a year - Full-time",New York,NY,150000.0,170000.0,per year,160000.0,160000.0,4.0,$150001 - $200000
+393,"Senior Manager, Artificial Intelligence- Key Technology, Operations & Services",3.5,KeyBank,Remote,2.0,Full-Time,"$110,000 - $206,000 a year - Full-time",,,110000.0,206000.0,per year,158000.0,158000.0,4.0,$150001 - $200000
+394,Principal Software Engineer,4.0,"GitHub, Inc.",Remote,2.0,Full-Time,"$134,800 - $357,500 a year - Full-time",,,134800.0,357500.0,per year,246150.0,246150.0,5.0,$200001 - $250000
+395,Principal Statistical Programmer,3.7,Vertex Pharmaceuticals,"On-Site,Remote",1.0,Full-Time,N/A,Boston,MA,,,,,,,
+396,Founding Engineer - AI & Compute,,deCircle,"On-Site,Remote",1.0,Full-Time,N/A,San Francisco,CA,,,,,,,
+397,Sr Staff Algorithm Engineer,3.3,Dexcom,Remote,2.0,Full-Time,"$156,400 - $260,600 a year",,,156400.0,260600.0,per year,208500.0,208500.0,5.0,$200001 - $250000
+398,"Director, Business Intelligence Analytics",,"International Data Group, Inc.","On-Site,Remote",1.0,Full-Time,"$170,000 - $200,000 a year - Full-time",Needham,MA,170000.0,200000.0,per year,185000.0,185000.0,4.0,$150001 - $200000
+399,Perception Software Engineer - ML Ops,3.7,Forterra,Remote,2.0,Full-Time,"$115,000 - $190,000 a year - Full-time",,,115000.0,190000.0,per year,152500.0,152500.0,4.0,$150001 - $200000
+400,Lead Software Machine Learning Engineer - Anomaly Detection (Remote),3.4,New Relic,"On-Site,Remote",1.0,Full-Time,"$180,000 - $225,000 a year",Atlanta,GA,180000.0,225000.0,per year,202500.0,202500.0,5.0,$200001 - $250000
+401,State Product Manager,3.6,Tower Hill Insurance Group LLC,"On-Site,Remote",1.0,Full-Time,N/A,Irving,TX,,,,,,,
+402,Lead Data Solutions Engineer - GenAI/ML/LLM (Hybrid or Remote),3.9,S&P Global,"On-Site,Remote",1.0,Full-Time,"$90,000 - $200,000 a year",University of Richmond,VA,90000.0,200000.0,per year,145000.0,145000.0,3.0,$100001 - $150000
+403,Senior Machine Learning Engineer,,United Talent Agency (UTA),Remote,2.0,Full-Time,"$160,000 - $180,000 a year - Full-time",,,160000.0,180000.0,per year,170000.0,170000.0,4.0,$150001 - $200000
+404,"Manager, IT Business Solutions Delivery",3.7,Infor,Remote,2.0,Full-Time,N/A,,,,,,,,,
+405,Director of Clinical AI/NLP Search,,Deep 6 AI,"On-Site,Remote",1.0,Full-Time,"$250,000 - $310,000 a year - Full-time",Pasadena,CA,250000.0,310000.0,per year,280000.0,280000.0,6.0,$250001 - $300000
+407,Senior Big Data Hadoop ML Engineer (GCP),3.6,Rackspace,Remote,2.0,Full-Time,"$116,100 - $198,440 a year - Full-time",,,116100.0,198440.0,per year,157270.0,157270.0,4.0,$150001 - $200000
+408,"Solution Consultant, Principal - Financials",3.7,Infor,Remote,2.0,Full-Time,N/A,,,,,,,,,
+409,Logisitics Network Engineer,3.9,Logistics Management Institute,Remote,2.0,Full-Time,N/A,,,,,,,,,
+410,Senior Machine Learning Engineer,,Canoe Intelligence,"On-Site,Remote",1.0,Full-Time,"$140,000 - $210,000 a year",New York,NY,140000.0,210000.0,per year,175000.0,175000.0,4.0,$150001 - $200000
+411,Software Engineer II,3.3,Brightway Insurance,"On-Site,Remote",1.0,Full-Time,N/A,Jacksonville,FL,,,,,,,
+412,Senior Product Manager,3.9,S&P Global,"On-Site,Remote",1.0,Full-Time,"$82,872.00 - $145,540.50 a year",Albany,NY,82872.0,145540.5,per year,114206.25,114206.25,3.0,$100001 - $150000
+413,Product Operations Lead - Member Experience,3.9,Netflix,"On-Site,Remote",1.0,Full-Time,"$120,000 - $515,000 a year - Full-time",Los Gatos,CA,120000.0,515000.0,per year,317500.0,317500.0,7.0,$300001 - $400000
+414,Channel Sales Technical Specialist,2.5,Digital Science,Remote,2.0,Full-Time,N/A,,,,,,,,,
+415,Principal Machine Learning Engineer,3.3,Orbis,Remote,2.0,Full-Time,"$250,000 - $315,000 a year",,,250000.0,315000.0,per year,282500.0,282500.0,6.0,$250001 - $300000
+416,Principal AI/ML Engineer - Remote,,Optum,"On-Site,Remote",1.0,Full-Time,"$122,100 - $234,700 a year",Minnetonka,MN,122100.0,234700.0,per year,178400.0,178400.0,4.0,$150001 - $200000
+417,Sr. Analyst (Anaplan Model Builder & Finance Systems),3.7,"Alteryx, Inc.",Remote,2.0,Full-Time,N/A,,,,,,,,,
+418,"Solution Architect, Senior - Workforce Management Solutions",3.7,Infor,Remote,2.0,Full-Time,N/A,,,,,,,,,
+419,"Senior Manager, Portfolio Analytics",4.0,Tala,Remote,2.0,Full-Time,"$150,000 - $175,000 a year - Full-time",,,150000.0,175000.0,per year,162500.0,162500.0,4.0,$150001 - $200000
+420,Asset Management Subject Matter Expert,3.9,ManTech,Remote,2.0,Full-Time,"$130,500 - $217,500 a year - Full-time",,,130500.0,217500.0,per year,174000.0,174000.0,4.0,$150001 - $200000
+422,Senior AI Taxonomy Engineer,4.0,"Red Hat, Inc.","On-Site,Remote",1.0,Full-Time,"$118,840 - $196,070 a year - Full-time",Boston,MA,118840.0,196070.0,per year,157455.0,157455.0,4.0,$150001 - $200000
+423,Staff Cloud Engineer,3.2,CVS Health,"On-Site,Remote",1.0,Full-Time,"$130,295 - $267,800 a year - Full-time",Trenton,NJ,130295.0,267800.0,per year,199047.5,199047.5,4.0,$150001 - $200000
+424,Big Data Integration Engineer,4.1,KBR,"On-Site,Remote",1.0,Full-Time,N/A,Boston,MA,,,,,,,
+425,"Sr. Manager, Market Access Advanced Analytics (Remote)",3.5,Jazz Pharmaceuticals,"On-Site,Remote",1.0,Full-Time,"$128,000 - $192,000 a year",Philadelphia,PA,128000.0,192000.0,per year,160000.0,160000.0,4.0,$150001 - $200000
+426,"AVP, Marketing Advanced Analytics",,DIRECTV,"On-Site,Remote",1.0,Full-Time,"$187,340 - $340,170 a year",El Segundo,CA,187340.0,340170.0,per year,263755.0,263755.0,6.0,$250001 - $300000
+427,"Senior Scientist Microscopy/Biology with experience in Machine Learning - Remote, Eastern, US or Toronto",,Sartorius,"On-Site,Remote",1.0,Full-Time,"$140,000 - $170,000 a year",New York,NY,140000.0,170000.0,per year,155000.0,155000.0,4.0,$150001 - $200000
+428,Senior Data Scientist – Underwriting Innovation & Product Analytics (Remote),3.7,Thrivent,Remote,2.0,Full-Time,"$140,056 - $189,487 a year - Full-time",,,140056.0,189487.0,per year,164771.5,164771.5,4.0,$150001 - $200000
+429,Senior Spotfire Developer,3.2,USDM Life Sciences,Remote,2.0,Full-Time,$50 - $58 an hour - Full-time,,,50.0,58.0,per hour,54.0,112320.0,3.0,$100001 - $150000
+430,Senior Machine Learning Engineer,3.9,Atlassian,"On-Site,Remote",1.0,Full-Time,N/A,Seattle,WA,,,,,,,
+431,Senior Machine Learning Engineer (Remote*),,Office Depot,"On-Site,Remote",1.0,Full-Time,N/A,Boca Raton,FL,,,,,,,
+432,Senior Software Engineer,,Teaching Lab,Remote,2.0,Full-Time,"$125,000 - $189,074 a year - Full-time",,,125000.0,189074.0,per year,157037.0,157037.0,4.0,$150001 - $200000
+437,"Principal Investigator to Director Machine, Learning Engineer",3.7,Incyte Corporation,Remote,2.0,Full-Time,N/A,,,,,,,,,
+438,Principal Machine Learning Engineer,3.8,ServiceTitan,Remote,2.0,Full-Time,"$226,000 - $323,000 a year - Full-time",,,226000.0,323000.0,per year,274500.0,274500.0,6.0,$250001 - $300000
+439,Senior Data Scientist (Data Analytics),3.3,Steampunk,"On-Site,Remote",1.0,Full-Time,"$110,000 - $130,000 a year",El Paso,TX,110000.0,130000.0,per year,120000.0,120000.0,3.0,$100001 - $150000
+440,"Principal Engineer, ML/AI Platform",,Credit Acceptance,Remote,2.0,Full-Time,"$243,000 - $417,000 a year",,,243000.0,417000.0,per year,330000.0,330000.0,7.0,$300001 - $400000
+441,Senior Data Engineer – Analytics & Actuarial (SQL/OLAP Cube/ETL/Python) – Property Insurance,,Kingstone Insurance,Remote,2.0,Full-Time,"$95,000 - $140,000 a year",,,95000.0,140000.0,per year,117500.0,117500.0,3.0,$100001 - $150000
+442,Cloud Operations Analyst,3.9,ManTech,Remote,2.0,Full-Time,"$90,200 - $149,600 a year - Full-time",,,90200.0,149600.0,per year,119900.0,119900.0,3.0,$100001 - $150000
+443,Generative AI & Business Application Lead (Engineer Machine Learning 4),3.7,HII,"On-Site,Remote",1.0,Full-Time,"$137,510 - $206,000 a year - Full-time",Washington,DC,137510.0,206000.0,per year,171755.0,171755.0,4.0,$150001 - $200000
+444,"Sr Consultant - Commercial Solutions & Insights Hub (CSIH), Analytics Pillar",3.7,IQVIA,Remote,2.0,Full-Time,"$127,200 - $233,300 a year - Full-time",,,127200.0,233300.0,per year,180250.0,180250.0,4.0,$150001 - $200000
+445,Principal Consultant - Statistical Analysis,3.3,Ameresco,Remote,2.0,Full-Time,N/A,,,,,,,,,
+446,Director - Chemical Scenario Research & Analytics,3.9,Dow Jones,"On-Site,Remote",1.0,Full-Time,"$100,000 - $250,000 a year",Houston,TX,100000.0,250000.0,per year,175000.0,175000.0,4.0,$150001 - $200000
+447,"Director, Analytics Innovation & Automation",,KORNFERRY,Remote,2.0,Full-Time,N/A,,,,,,,,,
+448,Senior Healthcare Analytics Developer and Lead,3.6,Abt Global,"On-Site,Remote",1.0,Full-Time,"$140,000 - $200,000 a year - Full-time",Rockville,MD,140000.0,200000.0,per year,170000.0,170000.0,4.0,$150001 - $200000
+449,Sr Analyst IT Security Threat (Threat Hunter),3.2,Medline Industries,Remote,2.0,Full-Time,N/A,,,,,,,,,
+450,Data Architect Lead,3.9,ManTech,Remote,2.0,Full-Time,"$111,400 - $185,700 a year - Full-time",,,111400.0,185700.0,per year,148550.0,148550.0,3.0,$100001 - $150000
+452,Data Architect Manager,4.0,Origami Risk LLC,Remote,2.0,Full-Time,"$146,915 - $175,000 a year - Full-time",,,146915.0,175000.0,per year,160957.5,160957.5,4.0,$150001 - $200000
+453,Senior Director of R&D Analytics,3.6,MongoDB,"On-Site,Remote",1.0,Full-Time,"$171,000 - $336,000 a year",New York,NY,171000.0,336000.0,per year,253500.0,253500.0,6.0,$250001 - $300000
+454,AI Engineer - Clearance Required,3.9,Logistics Management Institute,"On-Site,Remote",1.0,Full-Time,N/A,Tysons,VA,,,,,,,
+455,Oracle Fusion Reporting Analyst II - REMOTE,3.2,Lifepoint Health Support Center,"On-Site,Remote",1.0,Full-Time,N/A,Brentwood,TN,,,,,,,
+456,"Lead Consultant, Machine Learning Engineer (Level III)",,Lovelytics,Remote,2.0,Full-Time,N/A,,,,,,,,,
+457,Manager AI Strategy,3.9,Flex LTD,"On-Site,Remote",1.0,Full-Time,"$92,100 - $126,600 a year - Full-time",Milpitas,CA,92100.0,126600.0,per year,109350.0,109350.0,3.0,$100001 - $150000
+458,Senior Data Scientist & Assessment Scoring Engineer,,KORNFERRY,Remote,2.0,Full-Time,N/A,,,,,,,,,
+459,Lead AI Architect,3.2,CNO Financial Group,"On-Site,Remote",1.0,Full-Time,"$136,600 - $204,800 a year - Full-time",Carmel,IN,136600.0,204800.0,per year,170700.0,170700.0,4.0,$150001 - $200000
+460,"Lead Engineer, AI and ML Platform",3.7,Sephora,"On-Site,Remote",1.0,Full-Time,"$181,440 - $201,600 a year - Full-time",San Francisco,CA,181440.0,201600.0,per year,191520.0,191520.0,4.0,$150001 - $200000
+461,Senior Enterprise Account Executive - Strategic Accounts (NA),,Comet ML,Remote,2.0,Full-Time,"$100,000 a year",,,100000.0,,per year,100000.0,100000.0,2.0,$50001 - $100000
+462,"Sr AI Engineer (Python, Azure, AI)(Remote)",3.3,Commonwealth Care Alliance,"On-Site,Remote",1.0,Full-Time,N/A,Boston,MA,,,,,,,
+463,"Manager, RWE Programming - Real World Evidence",3.8,"Daiichi Sankyo, Inc.",Remote,2.0,Full-Time,N/A,,,,,,,,,
+464,"Manager, Solutions Architect - Healthcare & Life Sciences",3.0,Databricks,"On-Site,Remote",1.0,Full-Time,"$178,900 - $316,300 a year",New York,NY,178900.0,316300.0,per year,247600.0,247600.0,5.0,$200001 - $250000
+465,"Research Fellow, Legal Data Lab, School of Law",4.1,University of Virginia,"On-Site,Remote",1.0,Full-Time,"$60,000 a year - Full-time",Charlottesville,VA,60000.0,,per year,60000.0,60000.0,2.0,$50001 - $100000
+467,"Software Engineer Senior Principal, Machine Learning (Remote)",,Home Depot / THD,"On-Site,Remote",1.0,Full-Time,"$170,000 - $240,000 a year",Atlanta,GA,170000.0,240000.0,per year,205000.0,205000.0,5.0,$200001 - $250000
+468,Practice Intelligence Senior Data Scientist,3.3,Ogletree Deakins,"On-Site,Remote",1.0,Full-Time,"$80,640 - $134,000 a year - Full-time",Greenville,SC,80640.0,134000.0,per year,107320.0,107320.0,3.0,$100001 - $150000
+469,Data Architect - Platform,,Enterra Solutions,Remote,2.0,Full-Time,N/A,,,,,,,,,
+470,Senior Manager for CBP Intelligence & Investi,,Council For Logistics Research Inc,"On-Site,Remote",1.0,Full-Time,N/A,Washington,DC,,,,,,,
+471,Senior Engineering Manager,4.0,"GitHub, Inc.",Remote,2.0,Full-Time,"$104,400 - $276,900 a year - Full-time",,,104400.0,276900.0,per year,190650.0,190650.0,4.0,$150001 - $200000
+472,Platform Consultant,3.6,Verint Systems Inc.,Remote,2.0,Full-Time,"$100,000 - $140,000 a year",,,100000.0,140000.0,per year,120000.0,120000.0,3.0,$100001 - $150000
+473,Principal Machine Learning Engineer,2.5,The RealReal,"On-Site,Remote",1.0,Full-Time,"$249,734 - $277,482 a year - Full-time",Bellflower,CA,249734.0,277482.0,per year,263608.0,263608.0,6.0,$250001 - $300000
+474,Training Range Engineer,3.7,Isys Technologies,"On-Site,Remote",1.0,Full-Time,"$115,000 - $140,000 a year - Full-time",Schriever AFB,CO,115000.0,140000.0,per year,127500.0,127500.0,3.0,$100001 - $150000
+482,Statistician: Mid-Senior level,,Valos,Remote,2.0,Full-Time,N/A,,,,,,,,,
+483,AZURE AI CERTIFIED Senior Developer,4.1,Intone Networks,Remote,2.0,Contract,N/A,,,,,,,,,
+484,Senior Actuarial Analyst,2.8,Lemonade Insurance Company,Remote,2.0,Full-Time,"$110,000 - $130,000 a year - Full-time",,,110000.0,130000.0,per year,120000.0,120000.0,3.0,$100001 - $150000
+485,Applied Mathematician,3.3,Quad,Remote,2.0,Full-Time,N/A,,,,,,,,,
+486,Principal Machine Learning Engineer,4.0,"Red Hat, Inc.","On-Site,Remote",1.0,Full-Time,"$163,420 - $269,640 a year - Full-time",Boston,MA,163420.0,269640.0,per year,216530.0,216530.0,5.0,$200001 - $250000
+487,Senior Software Engineer-AI/ML,,SCIGON,Remote,2.0,Full-Time,N/A,,,,,,,,,
+488,Clinical Data Scientist - Registered Nurse Only,3.8,B. Braun Medical Inc.,"On-Site,Remote",1.0,Full-Time,"$79,022 - $98,777 a year - Full-time",Bethlehem,PA,79022.0,98777.0,per year,88899.5,88899.5,2.0,$50001 - $100000
+489,Senior Software Developer AI/Machine Learning,3.4,ICF,"On-Site,Remote",1.0,Full-Time,"$92,986 - $158,076 a year - Full-time",Reston,VA,92986.0,158076.0,per year,125531.0,125531.0,3.0,$100001 - $150000
+490,"Senior Field Engineer, East Region",2.3,Dataiku,Remote,2.0,Full-Time,"$220,000 - $235,000 a year",,,220000.0,235000.0,per year,227500.0,227500.0,5.0,$200001 - $250000
+491,"Principal Engineer, Performance Tuning",3.9,Okta,Remote,2.0,Full-Time,"$188,000 - $316,000 a year - Full-time",,,188000.0,316000.0,per year,252000.0,252000.0,6.0,$250001 - $300000
+492,Senior Data Operations Programmer - US / Canada,,PHASTAR,Remote,2.0,Full-Time,N/A,,,,,,,,,
+493,Data Solution Architect,3.3,Steampunk,"On-Site,Remote",1.0,Full-Time,N/A,McLean,VA,,,,,,,
+494,Senior Decision Support Engineer,4.4,St. Jude Children's Research Hospital,"On-Site,Remote",1.0,Full-Time,"$86,320 - $154,960 a year",Memphis,TN,86320.0,154960.0,per year,120640.0,120640.0,3.0,$100001 - $150000
+497,"Sr. Manager, Data & Analytics Engineering",2.4,Driven Brands,"On-Site,Remote",1.0,Full-Time,N/A,Charlotte,NC,,,,,,,
+498,Senior Agile Engineer - Remote (Typescript / AWS),3.1,Copeland,Remote,2.0,Full-Time,"$135,605 - $167,350 a year - Full-time",,,135605.0,167350.0,per year,151477.5,151477.5,4.0,$150001 - $200000
+499,"Manager, AI System Infrastructure and MLOps Engineering",4.6,Chan Zuckerberg Initiative,"On-Site,Remote",1.0,Full-Time,"$214,000 - $321,000 a year",Redwood City,CA,214000.0,321000.0,per year,267500.0,267500.0,6.0,$250001 - $300000
+500,Senior Product Analyst – Medicare Beneficiary Benefits & Claims Validation,3.8,Softrams,Remote,2.0,Full-Time,N/A,,,,,,,,,
+501,"Senior Analyst / Principal Analyst, Clean Energy Policy",3.6,Constellation Energy,"On-Site,Remote",1.0,Full-Time,"$104,400 - $137,000 a year",Baltimore,MD,104400.0,137000.0,per year,120700.0,120700.0,3.0,$100001 - $150000
+502,Underwriting Consultant,3.7,MASSMUTUAL,"On-Site,Remote",1.0,Full-Time,"$110,400 - $144,900 a year",Springfield,MA,110400.0,144900.0,per year,127650.0,127650.0,3.0,$100001 - $150000
+503,Databricks Engineer,3.1,Acuity INC,"On-Site,Remote",1.0,Full-Time,N/A,Crystal City,VA,,,,,,,
+504,Senior Software Engineer - AI/ML,4.0,eBay,"On-Site,Remote",1.0,Full-Time,"$135,200 - $205,700 a year - Full-time",San Jose,CA,135200.0,205700.0,per year,170450.0,170450.0,4.0,$150001 - $200000
+505,Senior AI/ML Engineer,3.3,CTI,Remote,2.0,Full-Time,N/A,,,,,,,,,
+506,Sr Systems Engineer,4.1,SAS,"On-Site,Remote",1.0,Full-Time,N/A,Cary,NC,,,,,,,
+507,"Sr Distinguished Engineer, Generative AI Systems - (Remote- Eligible)",3.9,Capital One,"On-Site,Remote",1.0,Full-Time,N/A,McLean,VA,,,,,,,
+508,BI Architect,3.9,Schneider Electric,"On-Site,Remote",1.0,Full-Time,N/A,Dallas,TX,,,,,,,
+509,Senior Search Marketing Strategist,3.1,iQuanti,"On-Site,Remote",1.0,Full-Time,"$117,042 a year - Full-time",Jersey City,NJ,117042.0,,per year,117042.0,117042.0,3.0,$100001 - $150000
+510,Lead Machine Learning Engineer,3.3,Smarsh,Remote,2.0,Full-Time,"$150,000 - $170,000 a year - Full-time",N/A,,150000.0,170000.0,per year,160000.0,160000.0,4.0,$150001 - $200000
+513,Senior Sales Engineer - AI Solutions,3.4,Data Direct Networks,"On-Site,Remote",1.0,Full-Time,N/A,Chicago,IL,,,,,,,
+514,Senior Director Of Analytics,3.6,Abt Global,"On-Site,Remote",1.0,Full-Time,"$194,000 - $220,000 a year - Full-time",Rockville,MD,194000.0,220000.0,per year,207000.0,207000.0,5.0,$200001 - $250000
+515,Cloud Systems Engineer-Clearance Required,3.9,Logistics Management Institute,Remote,2.0,Full-Time,N/A,,,,,,,,,
+516,Data Architect/Principal Data Engineer,3.0,Scribd,Remote,2.0,Full-Time,"$158,000 - $282,000 a year - Full-time",,,158000.0,282000.0,per year,220000.0,220000.0,5.0,$200001 - $250000
+517,Business Development Director | Analytics,,Archetype,"On-Site,Remote",1.0,Full-Time,N/A,Boston,MA,,,,,,,
+518,Sr. Solutions Architect - DNB,3.0,Databricks,"On-Site,Remote",1.0,Full-Time,"$169,000 - $299,000 a year",West,TX,169000.0,299000.0,per year,234000.0,234000.0,5.0,$200001 - $250000
+519,Senior Data Scientist,3.9,ManTech,"On-Site,Remote",1.0,Full-Time,"$99,200 - $164,600 a year - Full-time",Sterling,VA,99200.0,164600.0,per year,131900.0,131900.0,3.0,$100001 - $150000
+520,Senior Analytics Visualization Developer - CDH - Remote,,Mayo Clinic,"On-Site,Remote",1.0,Full-Time,"$102,772.80 - $143,873.60 a year",Rochester,MN,102772.8,143873.6,per year,123323.20000000001,123323.20000000001,3.0,$100001 - $150000
+521,Senior Data Scientist III,3.7,Risk Solutions,"On-Site,Remote",1.0,Full-Time,N/A,Alpharetta,GA,,,,,,,
+522,Senior Developer - PS Innovations,3.7,Genesys,Remote,2.0,Full-Time,N/A,,,,,,,,,
+523,Principal Machine Learning Engineer.,3.6,Western Governors University,"On-Site,Remote",1.0,Full-Time,"$197,000 - $305,300 a year - Full-time",Salt Lake City,UT,197000.0,305300.0,per year,251150.0,251150.0,6.0,$250001 - $300000
+524,Senior Lead Tax Analyst,3.7,"Vertex, Inc.",Remote,2.0,Full-Time,N/A,,,,,,,,,
+525,Information Systems Security Manager - Clearance Required,3.9,Logistics Management Institute,Remote,2.0,Full-Time,N/A,,,,,,,,,
+527,"Senior Decision Scientist, US 2024",,Aimpoint Digital,Remote,2.0,Full-Time,N/A,,,,,,,,,
+528,"Senior Machine Learning Engineer, Identity - ML Platform",3.6,Cash App,"On-Site,Remote",1.0,Full-Time,"$139,000 - $233,200 a year - Full-time",San Francisco,CA,139000.0,233200.0,per year,186100.0,186100.0,4.0,$150001 - $200000
+529,Manager Machine Learning Operations,4.5,Work from Home,"On-Site,Remote",1.0,Full-Time,N/A,Nashville,TN,,,,,,,
+530,Senior Machine Learning Platform Engineer,,Stability AI,"On-Site,Remote",1.0,Full-Time,"$130,000 - $190,000 a year",New York,NY,130000.0,190000.0,per year,160000.0,160000.0,4.0,$150001 - $200000
+531,Azure AI Architect,3.4,Coretek Services,Remote,2.0,Full-Time,N/A,,,,,,,,,
+532,Senior/Principal Statistical Programmer,4.0,Katalyst Healthcares & Life Sciences,"On-Site,Remote",1.0,Contract,N/A,South Plainfield,NJ,,,,,,,
+533,"Principal Engineer, Image Processing",,BlackSky,"On-Site,Remote",1.0,Full-Time,"$180,000 - $220,000 a year - Full-time",Seattle,WA,180000.0,220000.0,per year,200000.0,200000.0,4.0,$150001 - $200000
+534,Manager - Analytics Consulting (Insurance),3.9,Tiger Analytics,"On-Site,Remote",1.0,Full-Time,N/A,Chicago,IL,,,,,,,
+535,Sr. Manager/AD - BI Strategy and Consulting,3.9,Tiger Analytics,"On-Site,Remote",1.0,Full-Time,N/A,Nashville,TN,,,,,,,
+536,Senior Data Scientist - Partial Telework,,GliaCell Technologies,"On-Site,Remote",1.0,Full-Time,"$170,000 - $260,000 a year - Full-time",Annapolis Junction,MD,170000.0,260000.0,per year,215000.0,215000.0,5.0,$200001 - $250000
+537,Senior Research Engineer,,CloudZero,Remote,2.0,Full-Time,N/A,,,,,,,,,
+538,Senior Machine Learning Engineer - Underwriting & Credit,3.6,Cash App,"On-Site,Remote",1.0,Full-Time,"$168,300 - $297,000 a year - Full-time",San Francisco,CA,168300.0,297000.0,per year,232650.0,232650.0,5.0,$200001 - $250000
+539,Sr. Machine Learning Engineer - WFHMD - 1530,4.5,Global InfoTek Inc,"On-Site,Remote",1.0,Full-Time,N/A,Reston,VA,,,,,,,
+540,Lead AI Architect,4.5,Work from Home,"On-Site,Remote",1.0,Full-Time,N/A,Nashville,TN,,,,,,,
+542,ServiceNow Architect (Principal or I),4.4,St. Jude Children's Research Hospital,"On-Site,Remote",1.0,Full-Time,"$125,840 - $238,160 a year - Full-time",Memphis,TN,125840.0,238160.0,per year,182000.0,182000.0,4.0,$150001 - $200000
+543,"Senior Sales Engineer, East",2.3,Dataiku Misc Postings,"On-Site,Remote",1.0,Full-Time,"$150,000 - $190,000 a year",Boston,MA,150000.0,190000.0,per year,170000.0,170000.0,4.0,$150001 - $200000
+544,"Sr. Manager, Marketing Activation Sciences",4.0,General Motors,Remote,2.0,Full-Time,N/A,,,,,,,,,
+545,"Senior Software Engineer, Edge/IoT",3.0,Utilidata,Remote,2.0,Full-Time,"$135,000 - $165,000 a year - Full-time",,,135000.0,165000.0,per year,150000.0,150000.0,3.0,$100001 - $150000
+546,Sr Cost Estimator Associate,4.0,Quantech Services,Remote,2.0,Full-Time,N/A,,,,,,,,,
+547,Senior Director of Product Analytics and Design Research,,Ascension,Remote,2.0,Full-Time,N/A,,,,,,,,,
+548,"Senior Machine Learning Scientist - Microscopy/Biology (Lead)- Hybrid - Ann Arbor, MI",,Sartorius,Remote,2.0,Full-Time,"$140,000 - $170,000 a year",,,140000.0,170000.0,per year,155000.0,155000.0,4.0,$150001 - $200000
+549,Senior Solutions Architect (AI/ML) (RapidScale),,Cox Communications,"On-Site,Remote",1.0,Full-Time,"$123,800 - $185,600 a year",Raleigh,NC,123800.0,185600.0,per year,154700.0,154700.0,4.0,$150001 - $200000
+550,"Senior Manager, Machine Learning Engineering",2.7,Xometry Inc,"On-Site,Remote",1.0,Full-Time,N/A,Austin,TX,,,,,,,
+551,Principal Engineer - ML,4.0,Ninety,Remote,2.0,Full-Time,N/A,,,,,,,,,
+552,Sr. Lead Application Security Engineer - Generative AI (Remote),3.9,S&P Global,"On-Site,Remote",1.0,Full-Time,"$130,000 - $230,000 a year",University of Richmond,VA,130000.0,230000.0,per year,180000.0,180000.0,4.0,$150001 - $200000
+553,Sales Engineer (East Coast - Remote),,Acceldata,"On-Site,Remote",1.0,Full-Time,N/A,Kitchener,MS,,,,,,,
+554,Senior Software Engineer,3.5,Torch.AI,"On-Site,Remote",1.0,Full-Time,N/A,Leawood,KS,,,,,,,
+555,Senior Engineering Manager -- Teamwork Knowledge Graph AI,3.9,Atlassian,"On-Site,Remote",1.0,Full-Time,"$170,800 - $274,300 a year - Full-time",Mountain View,CA,170800.0,274300.0,per year,222550.0,222550.0,5.0,$200001 - $250000
+557,Senior Adobe Analytics Architect,3.9,Cognizant,"On-Site,Remote",1.0,Full-Time,"$110,000 - $160,000 a year - Full-time",New York,NY,110000.0,160000.0,per year,135000.0,135000.0,3.0,$100001 - $150000
+558,Lead Development Engineer – Infinia S3,3.4,Data Direct Networks,Remote,2.0,Full-Time,N/A,,,,,,,,,
+559,Data Science Systems Administrator,,462494978,Remote,2.0,Contract,"$55 - $60 an hour - Full-time, Contract",,,55.0,60.0,per hour,57.5,119600.0,3.0,$100001 - $150000
+560,Data Scientist - Remote,,Pager Health,"On-Site,Remote",1.0,Full-Time,"$112,000 - $132,000 a year - Full-time",Chicago,IL,112000.0,132000.0,per year,122000.0,122000.0,3.0,$100001 - $150000
+561,"Data Science Lead, Americas, Europe",,Almond FinTech,Remote,2.0,Contract,"$100,000 - $150,000 a year - Contract",,,100000.0,150000.0,per year,125000.0,125000.0,3.0,$100001 - $150000
+562,AI Systems Engineer,,Diversity Talent Scouts,Remote,2.0,Full-Time,"$80,000 - $120,000 a year - Full-time",,,80000.0,120000.0,per year,100000.0,100000.0,2.0,$50001 - $100000
+563,AI/ML Architect - Remote(Immediate interviews),,Qbtech,Remote,2.0,Full-Time,"From $170,000 a year - Full-time",,,170000.0,,per year,170000.0,170000.0,4.0,$150001 - $200000
+564,"Senior Data Scientist, Thyme Frame",4.5,Thyme Care,Remote,2.0,Full-Time,"$140,000 - $180,000 a year",,,140000.0,180000.0,per year,160000.0,160000.0,4.0,$150001 - $200000
+565,"Supv, Data Science",2.7,"SelectQuote, Inc.",Remote,2.0,Full-Time,"$120,000 - $145,000 a year - Full-time",,,120000.0,145000.0,per year,132500.0,132500.0,3.0,$100001 - $150000
+566,Generative AI Data Scientist,3.5,Deepwatch,"On-Site,Remote",1.0,Full-Time,"$160,000 - $240,000 a year",Washington,DC,160000.0,240000.0,per year,200000.0,200000.0,4.0,$150001 - $200000
+567,Senior Data Scientist - III,2.6,"Arch Systems, LLC",Remote,2.0,Full-Time,"$100,000 - $120,000 a year - Full-time",,,100000.0,120000.0,per year,110000.0,110000.0,3.0,$100001 - $150000
+568,"Engagement Manager, Data Science - REMOTE",4.0,E Source,Remote,2.0,Full-Time,"$85,000 - $120,000 a year - Full-time",N/A,,85000.0,120000.0,per year,102500.0,102500.0,3.0,$100001 - $150000
+569,AI Communications Specialist,,"ScribeDoc.Com, Inc",Remote,2.0,Full-Time,N/A,,,,,,,,,
+570,"Insurance Technology Analyst, Granular",3.9,Verily,Remote,2.0,Full-Time,"$80,000 - $100,000 a year - Full-time",,,80000.0,100000.0,per year,90000.0,90000.0,2.0,$50001 - $100000
+572,Associate Director of Data and Evaluation,,Partners for Rural Impact,Remote,2.0,Full-Time,N/A,,,,,,,,,
+573,Senior Data Scientist,,"KIZEN Technologies, Inc.",Remote,2.0,Full-Time,"From $180,000 a year - Full-time",,,180000.0,,per year,180000.0,180000.0,4.0,$150001 - $200000
+574,Computer Vision Data Scientist at Jaxon.AI,,"Jaxon, Inc.","On-Site,Remote",1.0,Full-Time,N/A,San Francisco Bay Area,CA,,,,,,,
+575,"Senior Analyst, Health & Risk Solutions - Cost of Care, Granular",3.9,Verily,Remote,2.0,Full-Time,"$100,000 - $120,000 a year - Full-time",,,100000.0,120000.0,per year,110000.0,110000.0,3.0,$100001 - $150000
+576,Senior Data Scientist - Identity,3.6,Cash App,"On-Site,Remote",1.0,Full-Time,"$120,700 - $213,000 a year - Full-time",San Francisco,CA,120700.0,213000.0,per year,166850.0,166850.0,4.0,$150001 - $200000
+577,AI Architect,,Aloden Inc,Remote,2.0,Contract,$70 - $140 an hour - Contract,,,70.0,140.0,per hour,105.0,218400.0,5.0,$200001 - $250000
+578,AI Communications Specialist - NIST (Remote),5.0,BluePath Labs,"On-Site,Remote",1.0,Full-Time,N/A,Washington,DC,,,,,,,
+579,"Senior Data Scientist, Ingest",2.7,Exactera,"On-Site,Remote",1.0,Full-Time,"$180,000 - $200,000 a year",New York,NY,180000.0,200000.0,per year,190000.0,190000.0,4.0,$150001 - $200000
+580,Senior Data Scientist (Remote),4.6,Elder Research,Remote,2.0,Full-Time,N/A,,,,,,,,,
+581,"Director Advanced Analytics & Data Science, Marketing/Insurance Focus",3.1,Horace Mann,"On-Site,Remote",1.0,Full-Time,N/A,Springfield,IL,,,,,,,
+582,"Insights Analyst, Member Experience",3.9,Chime,"On-Site,Remote",1.0,Full-Time,"$96,800 - $165,300 a year - Full-time",San Francisco,CA,96800.0,165300.0,per year,131050.0,131050.0,3.0,$100001 - $150000
+583,"Staff, Advanced Analytics",4.2,Airbnb,Remote,2.0,Full-Time,"$172,000 - $243,000 a year",,,172000.0,243000.0,per year,207500.0,207500.0,5.0,$200001 - $250000
+584,"Manager, Machine Learning, FedRAMP (Customer Identity)",3.9,Okta,Remote,2.0,Full-Time,"$202,000 - $302,000 a year - Full-time",,,202000.0,302000.0,per year,252000.0,252000.0,6.0,$250001 - $300000
+585,Sustainability & LCA Scientist for Project @ Food Data Startup,,GreenChoice,Remote,2.0,Contract,"$60,000 - $140,000 a year - Temporary, Contract",,,60000.0,140000.0,per year,100000.0,100000.0,2.0,$50001 - $100000
+587,Senior Field AI/ Customer Success Engineer (Remote),,Fiddler AI,Remote,2.0,Full-Time,"$160,000 - $195,000 a year - Full-time",,,160000.0,195000.0,per year,177500.0,177500.0,4.0,$150001 - $200000
+588,"Senior Machine Learning Engineer, Risk AI",3.6,Cash App,"On-Site,Remote",1.0,Full-Time,"$168,300 - $297,000 a year - Full-time",San Francisco,CA,168300.0,297000.0,per year,232650.0,232650.0,5.0,$200001 - $250000
+589,Staff Product Manager,3.0,JustAnswer,Remote,2.0,Full-Time,N/A,,,,,,,,,
+602,Machine Learning Infrastructure Engineer,3.6,Flip,Remote,2.0,Full-Time,N/A,N/A,,,,,,,,
+603,Data Scientist (Healthcare),3.6,IT Concepts,"On-Site,Remote",1.0,Full-Time,N/A,Washington,DC,,,,,,,
+604,Director of Analytics and Business Expansion,,Saint Laurent Consulting,Remote,2.0,Full-Time,N/A,,,,,,,,,
+605,Asset & Liability Management Analyst,3.8,Suncoast Credit Union,"On-Site,Remote",1.0,Full-Time,"$73,000 - $117,000 a year - Full-time",Tampa,FL,73000.0,117000.0,per year,95000.0,95000.0,2.0,$50001 - $100000
+606,Director | AI Architecture (Remote),3.1,Trace3,Remote,2.0,Full-Time,"$212,200 - $255,200 a year",,,212200.0,255200.0,per year,233700.0,233700.0,5.0,$200001 - $250000
+607,Director of Product Management - Data & AI - Remote,,Pager Health,"On-Site,Remote",1.0,Full-Time,"$161,400 - $200,000 a year - Full-time",Austin,TX,161400.0,200000.0,per year,180700.0,180700.0,4.0,$150001 - $200000
+608,Technical Lead - Python,,Mavericks United,Remote,2.0,Contract,"From $65 an hour - Full-time, Contract",,,65.0,,per hour,65.0,135200.0,3.0,$100001 - $150000
+609,Senior People Analytics Consultant,4.3,TalentNeuron,Remote,2.0,Full-Time,N/A,,,,,,,,,
+610,Subject Matter Expert – Generative AI for Exploratory Analysis,3.5,Hurix Systems PVT LTD,Remote,2.0,Full-Time,N/A,,,,,,,,,
+611,Manager of Global Marketing Intelligence & Analytics,3.8,Instructure,Remote,2.0,Full-Time,"$95,000 - $110,000 a year - Full-time",,,95000.0,110000.0,per year,102500.0,102500.0,3.0,$100001 - $150000
+612,"Director, Data Science & Analytics - Amazon",3.0,SharkNinja,"On-Site,Remote",1.0,Full-Time,N/A,Needham,MA,,,,,,,
+613,Rust Engineer,,Swish Analytics,Remote,2.0,Full-Time,"$100,000 - $175,000 a year",,,100000.0,175000.0,per year,137500.0,137500.0,3.0,$100001 - $150000
+614,Director of Digital Analytics,3.5,FCP Euro,Remote,2.0,Full-Time,"$125,000 - $175,000 a year - Full-time",,,125000.0,175000.0,per year,150000.0,150000.0,3.0,$100001 - $150000
+615,"VP of Consumer Credit Policy (NY, remote)",4.1,Climb Credit,"On-Site,Remote",1.0,Full-Time,"$220,000 - $250,000 a year - Full-time",New York,NY,220000.0,250000.0,per year,235000.0,235000.0,5.0,$200001 - $250000
+601,,,,,,,,,,,,,,,,
