@@ -43,26 +43,30 @@ Welcome to the Data Science Job Market Insights repository! 🎉 This project di
 2. Navigate to the project directory:
    ```bash
    cd data-science-job-market-insights
-3. Install required Python libraries:
+3. Create virtual env (windows)
+   ```bash
+   python -m venv envDsInsights
+4. Activate the new env
+   ```bash
+   .\envDsInsights\Scripts\activate
+
+5. Install required Python libraries:
    ```bash
    pip install -r requirements.txt
+
 ### Usage
 
 1. **Data Scraping**:
-   - Run `scrape_jobs.py` to collect data from Indeed.
+   - Run `scrap_v4.01.py` to collect data from Indeed.com .
 
 2. **Data Cleaning**:
-   - Execute `clean_data.py` to preprocess the data.
+   - Run `Final_P01.03_data_cleaning.ipynb` on Colab or Jupyter Notebook for data cleaning.
 
 3. **Data Analysis & Visualization**:
-   - Open Tableau and load `data_science_jobs_analysis.twb` to explore the dashboards.
+   - Open Tableau and load `Data Science Job Viz from Indeed.com.twb` to explore the dashboard.
      
-## Files 📂
 
-- `scrape_jobs.py`: Script for scraping data from Indeed.
-- `clean_data.py`: Script for cleaning the scraped data.
-- `data_science_jobs_analysis.twb`: Tableau workbook with visualizations.
-- `requirements.txt`: Python libraries required for the project.
+
 
 
    
