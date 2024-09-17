@@ -10,24 +10,19 @@ Welcome to the Data Science Job Market Insights repository! 🎉 This project di
 ## Project Components
 
 ### 1. Data Collection 🗃️
-- Scraped job listings from Indeed.com.
+- Scraped Data Science job listings from Indeed.com.
 - Collected details like job titles, required skills, salaries,education required and locations and more.
 
 ### 2. Data Cleaning 🧹
-- Processed and cleaned raw data .
+- Processed and cleaned raw data collected by scraping .
 - Perfromed Data engineering by extracting and creating new formatted data columns .
 
-### 3. Data Analysis & Visualization 📈
-- **Top Skills**: Identified the most in-demand skills for data science positions.
-- **Skills by Salary Range**: Analyzed skill requirements across different salary ranges.
-- **Salary Distribution**: Visualized how salaries are distributed for data science roles.
-- **Job Location Trends**: Mapped the U.S. states with the highest number of on-site job listings.
-
-### 4. Tableau Dashboards 📊
+### 3. Tableau Dashboards 📊
 - Created interactive dashboards in Tableau to visualize insights:
-  - Top skills required by employers
+  - Top skills required by top employers
   - Skill distribution across salary ranges
   - Salary distribution analysis
+  - Education Level demand 
   - Geographic distribution of on-site job requirements
   - [Dashboard](https://public.tableau.com/views/DataScienceJobVizfromIndeed_com/Dashboard1?:language=en-US&publish=yes&:sid=6F51DA7D92EF4481982A5A7A5FF73F18-0:0&:redirect=auth&:display_count=n&:origin=viz_share_link)
     
@@ -36,15 +31,15 @@ Welcome to the Data Science Job Market Insights repository! 🎉 This project di
 
 ### Prerequisites
 
-- Python (for data scraping and cleaning)
+- Python 
 - Tableau (for visualization)
-- Required Python libraries: `requests`, `beautifulsoup4`, `pandas`, `numpy`
+- Required Python libraries: `selenium`, `pandas`, `numpy`
 
 ### Installation
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/data-science-job-market-insights.git
+   git clone https://github.com/Arian-Rahman/Data-Science-Job-Market-Insights.git
 2. Navigate to the project directory:
    ```bash
    cd data-science-job-market-insights
