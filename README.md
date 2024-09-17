@@ -4,15 +4,18 @@
 
 Welcome to the Data Science Job Market Insights repository! 🎉 This project dives into the data science job market using data scraped from Indeed.com. We’ve cleaned, analyzed, and visualized the data to uncover insights about job trends, required skills, and salary distributions across the United States.
 
+![Main Dashboard](https://github.com/user-attachments/assets/69b555d0-cb79-4583-a049-5e6fc05fef8b)
+
+
 ## Project Components
 
 ### 1. Data Collection 🗃️
 - Scraped job listings from Indeed.com.
-- Collected details like job titles, required skills, salaries, and locations.
+- Collected details like job titles, required skills, salaries,education required and locations and more.
 
 ### 2. Data Cleaning 🧹
-- Processed and cleaned raw data to ensure accuracy.
-- Addressed missing values and standardized formats.
+- Processed and cleaned raw data .
+- Perfromed Data engineering by extracting and creating new formatted data columns .
 
 ### 3. Data Analysis & Visualization 📈
 - **Top Skills**: Identified the most in-demand skills for data science positions.
@@ -26,6 +29,8 @@ Welcome to the Data Science Job Market Insights repository! 🎉 This project di
   - Skill distribution across salary ranges
   - Salary distribution analysis
   - Geographic distribution of on-site job requirements
+  - [Dashboard](https://public.tableau.com/views/DataScienceJobVizfromIndeed_com/Dashboard1?:language=en-US&publish=yes&:sid=6F51DA7D92EF4481982A5A7A5FF73F18-0:0&:redirect=auth&:display_count=n&:origin=viz_share_link)
+    
 
 ## Getting Started 🚀
 
