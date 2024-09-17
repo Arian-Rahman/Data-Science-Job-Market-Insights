@@ -1,4 +1,5 @@
-📊 Data Science Job Market Analysis
+📊 
+Data Science Job Market Analysis
 Overview
 Welcome to the Data Science Job Market Analysis repository! 🎉 This project dives into the data science job market using data scraped from Indeed.com. We’ve cleaned, analyzed, and visualized the data to uncover insights about job trends, required skills, and salary distributions across the United States.
 
