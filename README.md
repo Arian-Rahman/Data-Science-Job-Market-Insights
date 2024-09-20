@@ -66,7 +66,7 @@ Welcome to the Data Science Job Market Insights repository! 🎉 This project di
 
 3. **Data Analysis & Visualization**:
    - Open Tableau and load `Data Science Job Viz from Indeed.com.twbx` to explore the dashboard.
-   -Click on the data section and import the data from data folder 
+   - Click on the data section and import the data from data folder 
      
 
 
