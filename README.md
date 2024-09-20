@@ -65,7 +65,8 @@ Welcome to the Data Science Job Market Insights repository! 🎉 This project di
    - Run `Final_P01.03_data_cleaning.ipynb` on Colab or Jupyter Notebook for data cleaning.
 
 3. **Data Analysis & Visualization**:
-   - Open Tableau and load `Data Science Job Viz from Indeed.com.twb` to explore the dashboard.
+   - Open Tableau and load `Data Science Job Viz from Indeed.com.twbx` to explore the dashboard.
+   -Click on the data section and import the data from data folder 
      
 
 
